@@ -1,6 +1,21 @@
 # Data Augmentation
 *Here's some resources about Data Augmentation*
 
+#### Unsupervised data augmentation for consistency training [`UNREAD`]
+paper link: [here](https://proceedings.neurips.cc/paper/2020/file/44feb0096faa8326192570788b38c1d1-Paper.pdf)
+
+citation: 
+```bibtex
+@article{xie2020unsupervised,
+  title={Unsupervised data augmentation for consistency training},
+  author={Xie, Qizhe and Dai, Zihang and Hovy, Eduard and Luong, Thang and Le, Quoc},
+  journal={Advances in neural information processing systems},
+  volume={33},
+  pages={6256--6268},
+  year={2020}
+}
+```
+
 
 #### RandAugment- Practical automated data augmentation with a reduced search space [`UNREAD`]
 paper link: [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.pdf)
