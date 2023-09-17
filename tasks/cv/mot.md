@@ -1,0 +1,182 @@
+# Multi-Object Tracking
+*Here's some resources about Multi-Object Tracking*
+
+### 2D
+
+#### Immortal tracker: Tracklet never dies [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2111.13672)
+
+citation: 
+```bibtex
+@article{wang2021immortal,
+  title={Immortal tracker: Tracklet never dies},
+  author={Wang, Qitai and Chen, Yuntao and Pang, Ziqi and Wang, Naiyan and Zhang, Zhaoxiang},
+  journal={arXiv preprint arXiv:2111.13672},
+  year={2021}
+}
+```
+
+#### Tracking objects as points [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2004.01177.pdf,)
+
+citation: 
+```bibtex
+@inproceedings{zhou2020tracking,
+  title={Tracking objects as points},
+  author={Zhou, Xingyi and Koltun, Vladlen and Kr{\"a}henb{\"u}hl, Philipp},
+  booktitle={European conference on computer vision},
+  pages={474--490},
+  year={2020},
+  organization={Springer}
+}
+```
+    
+#### Multiple object tracking by flowing and fusing [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2001.11180)
+
+citation: 
+```bibtex
+@article{zhang2020multiple,
+  title={Multiple object tracking by flowing and fusing},
+  author={Zhang, Jimuyang and Zhou, Sanping and Chang, Xin and Wan, Fangbin and Wang, Jinjun and Wu, Yang and Huang, Dong},
+  journal={arXiv preprint arXiv:2001.11180},
+  year={2020}
+}
+```
+
+#### Tracking without bells and whistles [`UNREAD`]
+
+paper link: [here](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bergmann_Tracking_Without_Bells_and_Whistles_ICCV_2019_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{bergmann2019tracking,
+  title={Tracking without bells and whistles},
+  author={Bergmann, Philipp and Meinhardt, Tim and Leal-Taixe, Laura},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={941--951},
+  year={2019}
+}
+```
+    
+
+#### Real-time multiple people tracking with deeply learned candidate selection and person re-identification [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1809.04427)
+
+citation: 
+```bibtex
+@inproceedings{chen2018real,
+  title={Real-time multiple people tracking with deeply learned candidate selection and person re-identification},
+  author={Chen, Long and Ai, Haizhou and Zhuang, Zijie and Shang, Chong},
+  booktitle={2018 IEEE international conference on multimedia and expo (ICME)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
+```
+    
+
+#### Simple online and realtime tracking with a deep association metric [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1703.07402)
+
+citation: 
+```bibtex
+@inproceedings{wojke2017simple,
+  title={Simple online and realtime tracking with a deep association metric},
+  author={Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich},
+  booktitle={2017 IEEE international conference on image processing (ICIP)},
+  pages={3645--3649},
+  year={2017},
+  organization={IEEE}
+}
+```
+    
+#### Detect to track and track to detect [`READ`]
+
+paper link: [here](http://openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{feichtenhofer2017detect,
+  title={Detect to track and track to detect},
+  author={Feichtenhofer, Christoph and Pinz, Axel and Zisserman, Andrew},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={3038--3046},
+  year={2017}
+}
+```
+
+#### Simple online and realtime tracking (SORT) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/1602.00763.pdf)
+
+citation: 
+```bibtex
+@inproceedings{bewley2016simple,
+  title={Simple online and realtime tracking},
+  author={Bewley, Alex and Ge, Zongyuan and Ott, Lionel and Ramos, Fabio and Upcroft, Ben},
+  booktitle={2016 IEEE international conference on image processing (ICIP)},
+  pages={3464--3468},
+  year={2016},
+  organization={IEEE}
+}
+```
+
+
+### 3D
+
+#### Mutr3d: A multi-camera tracking framework via 3d-to-2d queries [`UNREAD`]
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Zhang_MUTR3D_A_Multi-Camera_Tracking_Framework_via_3D-to-2D_Queries_CVPRW_2022_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{zhang2022mutr3d,
+  title={Mutr3d: A multi-camera tracking framework via 3d-to-2d queries},
+  author={Zhang, Tianyuan and Chen, Xuanyao and Wang, Yue and Wang, Yilun and Zhao, Hang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4537--4546},
+  year={2022}
+}
+```
+
+
+
+#### 1st Place Solutions for Waymo Open Dataset Challenges--2D and 3D Tracking [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2006.15506)
+
+citation: 
+```bibtex
+@article{wang20201st,
+  title={1st Place Solutions for Waymo Open Dataset Challenges--2D and 3D Tracking},
+  author={Wang, Yu and Chen, Sijia and Huang, Li and Ge, Runzhou and Hu, Yihan and Ding, Zhuangzhuang and Liao, Jie},
+  journal={arXiv preprint arXiv:2006.15506},
+  year={2020}
+}
+```
+    
+    
+### Survey
+
+#### Multiple object tracking: A literature review [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1409.7618)
+
+citation: 
+```bibtex
+@article{luo2021multiple,
+  title={Multiple object tracking: A literature review},
+  author={Luo, Wenhan and Xing, Junliang and Milan, Anton and Zhang, Xiaoqin and Liu, Wei and Kim, Tae-Kyun},
+  journal={Artificial intelligence},
+  volume={293},
+  pages={103448},
+  year={2021},
+  publisher={Elsevier}
+}
+```

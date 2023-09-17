@@ -131,6 +131,22 @@ citation:
   organization={Springer}
 }
 ```
+
+#### Learning deep features for discriminative localization (CAM) [`READ`]
+
+paper link: [here](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{zhou2016learning,
+  title={Learning deep features for discriminative localization},
+  author={Zhou, Bolei and Khosla, Aditya and Lapedriza, Agata and Oliva, Aude and Torralba, Antonio},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2921--2929},
+  year={2016}
+}
+```
+    
     
 
 #### Deep image homography estimation [`UNREAD`]
