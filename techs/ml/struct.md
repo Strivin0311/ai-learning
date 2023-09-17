@@ -35,5 +35,21 @@ citation:
 ```
 
 
+#### Direct loss minimization for structured prediction [`UNREAD`]
+
+paper link: [here](https://proceedings.neurips.cc/paper/2010/file/ca8155f4d27f205953f9d3d7974bdd70-Paper.pdf)
+
+citation: 
+```bibtex
+@article{hazan2010direct,
+  title={Direct loss minimization for structured prediction},
+  author={Hazan, Tamir and Keshet, Joseph and McAllester, David},
+  journal={Advances in neural information processing systems},
+  volume={23},
+  year={2010}
+}
+```
+    
+
 #### Structured Prediction Tutorial [`READ`]
 slides link: [here](https://pan.baidu.com/s/1dMba8xYAzoo-OhW5QCpg2w), with extraction code: `xsc8`

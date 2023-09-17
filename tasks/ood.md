@@ -16,6 +16,23 @@ citation:
 }
 ```
 
+#### OOD-MAML: Meta-learning for few-shot out-of-distribution detection and classification [`UNREAD`]
+
+paper link: [here](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)
+
+citation: 
+```bibtex
+@article{jeong2020ood,
+  title={OOD-MAML: Meta-learning for few-shot out-of-distribution detection and classification},
+  author={Jeong, Taewon and Kim, Heeyoung},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={3907--3916},
+  year={2020}
+}
+```
+    
+
 
 
 #### Generalized ODIN- Detecting Out-of-distribution Image without Learning from Out-of-distribution Data [`READ`]

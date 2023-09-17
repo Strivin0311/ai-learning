@@ -43,6 +43,21 @@ citation:
 }
 ```
 
+#### Smash: one-shot model architecture search through hypernetworks [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1708.05344)
+
+citation: 
+```bibtex
+@article{brock2017smash,
+  title={Smash: one-shot model architecture search through hypernetworks},
+  author={Brock, Andrew and Lim, Theodore and Ritchie, James M and Weston, Nick},
+  journal={arXiv preprint arXiv:1708.05344},
+  year={2017}
+}
+```
+    
+
 #### Neural Architecture Search with Reinforcement Learning [`READ`]
 paper link: [here](https://arxiv.org/pdf/1611.01578.pdf)
 

@@ -122,7 +122,23 @@ citation:
   publisher={Microtome Publishing}
 }
 ```
-    
+
+#### Reviving and improving recurrent back-propagation [`UNREAD`]
+
+paper link: [here](http://proceedings.mlr.press/v80/liao18c/liao18c.pdf)
+
+citation: 
+```bibtex
+@inproceedings{liao2018reviving,
+  title={Reviving and improving recurrent back-propagation},
+  author={Liao, Renjie and Xiong, Yuwen and Fetaya, Ethan and Zhang, Lisa and Yoon, KiJung and Pitkow, Xaq and Urtasun, Raquel and Zemel, Richard},
+  booktitle={International Conference on Machine Learning},
+  pages={3082--3091},
+  year={2018},
+  organization={PMLR}
+}
+```
+     
 
 
 #### To understand deep learning we need to understand kernel learning [`UNREAD`]
@@ -140,6 +156,7 @@ citation:
   organization={PMLR}
 }
 ```
+    
 
 #### Deep neural networks as gaussian processes [`UNREAD`]
 
@@ -186,6 +203,22 @@ citation:
   year={2017}
 }
 ```
+
+#### Categorical reparameterization with gumbel-softmax [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1611.01144.pdf%20http://arxiv.org/)
+
+citation: 
+```bibtex
+@article{jang2016categorical,
+  title={Categorical reparameterization with gumbel-softmax},
+  author={Jang, Eric and Gu, Shixiang and Poole, Ben},
+  journal={arXiv preprint arXiv:1611.01144},
+  year={2016}
+}
+```
+    
+    
 
 #### Delving deep into rectifiers: Surpassing human-level performance on imagenet classification (PReLU / MSRA) [`UNREAD`]
 
@@ -236,6 +269,23 @@ citation:
   publisher={JMLR. org}
 }
 ```
+
+#### Stochastic backpropagation and approximate inference in deep generative models [`READ`]
+
+paper link: [here](http://proceedings.mlr.press/v32/rezende14.pdf)
+
+citation: 
+```bibtex
+@inproceedings{rezende2014stochastic,
+  title={Stochastic backpropagation and approximate inference in deep generative models},
+  author={Rezende, Danilo Jimenez and Mohamed, Shakir and Wierstra, Daan},
+  booktitle={International conference on machine learning},
+  pages={1278--1286},
+  year={2014},
+  organization={PMLR}
+}
+```
+    
     
 
 #### Understanding the exploding gradient problem [`UNREAD`]
