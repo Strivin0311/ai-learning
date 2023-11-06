@@ -2,6 +2,45 @@
 *Here's some resources about Robotics*
 
 
+## Paper
+
+#### RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
+
+paper link: [here](https://arxiv.org/pdf/2311.01455.pdf)
+
+citation:
+```bibtex
+@misc{wang2023robogen,
+      title={RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation}, 
+      author={Yufei Wang and Zhou Xian and Feng Chen and Tsun-Hsuan Wang and Yian Wang and Katerina Fragkiadaki and Zackory Erickson and David Held and Chuang Gan},
+      year={2023},
+      eprint={2311.01455},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
+
+
+#### Ase: Large-scale reusable adversarial skill embeddings for physically simulated characters [`READ`]
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3528223.3530110)
+
+citation: 
+```bibtex
+@article{peng2022ase,
+  title={Ase: Large-scale reusable adversarial skill embeddings for physically simulated characters},
+  author={Peng, Xue Bin and Guo, Yunrong and Halper, Lina and Levine, Sergey and Fidler, Sanja},
+  journal={ACM Transactions On Graphics (TOG)},
+  volume={41},
+  number={4},
+  pages={1--17},
+  year={2022},
+  publisher={ACM New York, NY, USA}
+}
+```
+    
+
+
 ## Slides
 
 #### Robot Motion Planning [`READ`]

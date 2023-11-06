@@ -17,6 +17,22 @@ citation:
   organization={PMLR}
 }
 ```
+
+#### Learning to search with MCTSnets [`READ`]
+
+paper link: [here](http://proceedings.mlr.press/v80/guez18a/guez18a.pdf)
+
+citation: 
+```bibtex
+@inproceedings{guez2018learning,
+  title={Learning to search with MCTSnets},
+  author={Guez, Arthur and Weber, Th{\'e}ophane and Antonoglou, Ioannis and Simonyan, Karen and Vinyals, Oriol and Wierstra, Daan and Munos, R{\'e}mi and Silver, David},
+  booktitle={International conference on machine learning},
+  pages={1822--1831},
+  year={2018},
+  organization={PMLR}
+}
+```
     
 
 
