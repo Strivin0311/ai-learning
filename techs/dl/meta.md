@@ -49,6 +49,21 @@ citation:
   year={2018}
 }
 ```
+
+#### Supervising strong learners by amplifying weak experts [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1810.08575)
+
+citation: 
+```bibtex
+@article{christiano2018supervising,
+  title={Supervising strong learners by amplifying weak experts},
+  author={Christiano, Paul and Shlegeris, Buck and Amodei, Dario},
+  journal={arXiv preprint arXiv:1810.08575},
+  year={2018}
+}
+```
+    
     
 
 #### Model-agnostic meta-learning for fast adaptation of deep networks (MAML) [`UNREAD`]
@@ -67,3 +82,7 @@ citation:
 }
 ```
     
+
+#### Principles of Metalevel Control [`UNREAD`]
+
+book link: [here](https://pan.baidu.com/s/1Vmd2-U_k8q-hN8Ox4ly_3w), with extraction code: `mcuc`

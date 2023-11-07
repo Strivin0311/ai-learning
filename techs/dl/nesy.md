@@ -161,6 +161,21 @@ book link: [here](https://pan.baidu.com/s/1Pf-wvufT26EF78n4glXFFQ), with extract
 
 ### Learning
 
+#### Neuro-symbolic Learning Yielding Logical Constraints [`READ`]
+
+paper link: [here](https://openreview.net/pdf?id=2ioRi2uwLR)
+
+citation: 
+```bibtex
+@inproceedings{li2023neuro,
+  title={Neuro-symbolic Learning Yielding Logical Constraints},
+  author={Li, Zenan and Huang, Yunpeng and Li, Zhaoyu and Yao, Yuan and Xu, Jingwei and Chen, Taolue and Ma, Xiaoxing and Lu, Jian},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
+
+
 #### Semantic Strengthening of Neuro-Symbolic Learning [`READ`]
 
 paper link: [here](https://proceedings.mlr.press/v206/ahmed23a/ahmed23a.pdf)
@@ -340,5 +355,22 @@ citation:
   organization={PMLR}
 }
 ```
+
+
+#### Neural module networks [`UNREAD`]
+
+paper link: [here](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{andreas2016neural,
+  title={Neural module networks},
+  author={Andreas, Jacob and Rohrbach, Marcus and Darrell, Trevor and Klein, Dan},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={39--48},
+  year={2016}
+}
+```
+    
     
 

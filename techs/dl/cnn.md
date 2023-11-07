@@ -50,6 +50,9 @@ citation:
   year={2015}
 }
 ```
+
+here's a notebook to do image style transformation using `VGG19`: [here](../../notebooks/vgg19-style-transform.ipynb)
+
     
 
 #### Imagenet classification with deep convolutional neural networks (AlexNet) [`READ`]
@@ -85,4 +88,7 @@ citation:
   publisher={Ieee}
 }
 ```
+    
+here's a notebook to do image classification using `LeNet`: [here](../../notebooks/lenet-fasionmnist.ipynb)
+
     

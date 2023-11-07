@@ -61,6 +61,21 @@ citation:
 }
 ```
 
+#### What can neural networks reason about? [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1905.13211)
+
+citation: 
+```bibtex
+@article{xu2019can,
+  title={What can neural networks reason about?},
+  author={Xu, Keyulu and Li, Jingling and Zhang, Mozhi and Du, Simon S and Kawarabayashi, Ken-ichi and Jegelka, Stefanie},
+  journal={arXiv preprint arXiv:1905.13211},
+  year={2019}
+}
+```
+    
+
 #### Neural tangent kernel: Convergence and generalization in neural networks [`READ`]
 
 paper link: [here](https://proceedings.neurips.cc/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf)

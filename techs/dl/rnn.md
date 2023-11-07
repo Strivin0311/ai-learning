@@ -2,6 +2,23 @@
 *Here's some resources about Recurrent Neural Networks*
 
 
+#### Deep equilibrium models [`UNREAD`]
+
+paper link: [here](https://proceedings.neurips.cc/paper/2019/file/01386bd6d8e091c2ab4c7c7de644d37b-Paper.pdf)
+
+citation: 
+```bibtex
+@article{bai2019deep,
+  title={Deep equilibrium models},
+  author={Bai, Shaojie and Kolter, J Zico and Koltun, Vladlen},
+  journal={Advances in Neural Information Processing Systems},
+  volume={32},
+  year={2019}
+}
+```
+    
+
+
 #### LSTM: A search space odyssey [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1503.04069.pdf?fbclid=IwAR377Jhphz_xGSSThcqGUlAx8OJc_gU6Zwq8dABHOdS4WNOPRXA5LcHOjUg)
@@ -33,4 +50,6 @@ citation:
   year={2014}
 }
 ```
+
+here's a notebook to do sentimental analysis on movie reviews using `GRU`: [here](../../notebooks/gru-sentiment-movie.ipynb)
     

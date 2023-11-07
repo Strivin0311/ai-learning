@@ -111,5 +111,23 @@ citation:
   year={2014}
 }
 ```
-    
+
+
+#### Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs [`UNREAD`]
+
+paper link: [here](http://web.stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf)
+
+citation: 
+```bibtex
+@article{stuhlmuller2014reasoning,
+  title={Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs},
+  author={Stuhlm{\"u}ller, Andreas and Goodman, Noah D},
+  journal={Cognitive Systems Research},
+  volume={28},
+  pages={80--99},
+  year={2014},
+  publisher={Elsevier}
+}
+```
+     
     
