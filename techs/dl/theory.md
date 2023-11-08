@@ -247,6 +247,21 @@ citation:
   year={2016}
 }
 ```
+
+#### Training deep nets with sublinear memory cost [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1604.06174)
+
+citation: 
+```bibtex
+@article{chen2016training,
+  title={Training deep nets with sublinear memory cost},
+  author={Chen, Tianqi and Xu, Bing and Zhang, Chiyuan and Guestrin, Carlos},
+  journal={arXiv preprint arXiv:1604.06174},
+  year={2016}
+}
+```
+    
     
     
 
