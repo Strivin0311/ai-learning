@@ -61,6 +61,21 @@ citation:
 }
 ```
 
+#### Low-memory neural network training: A technical report [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1904.10631)
+
+citation: 
+```bibtex
+@article{sohoni2019low,
+  title={Low-memory neural network training: A technical report},
+  author={Sohoni, Nimit S and Aberger, Christopher R and Leszczynski, Megan and Zhang, Jian and R{\'e}, Christopher},
+  journal={arXiv preprint arXiv:1904.10631},
+  year={2019}
+}
+```
+    
+
 #### What can neural networks reason about? [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1905.13211)
