@@ -179,6 +179,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/1608.04644.pdf?source=post_page)
 
+here's a [notebook](../../notebooks/C&W_attack_exp.ipynb) where implements and explains C&W and do some experiments on image adversarial attacks
+
 citation: 
 ```bibtex
 @inproceedings{carlini2017towards,
@@ -193,7 +195,7 @@ citation:
 
 #### Towards deep learning models resistant to adversarial attacks (PGD) [`READ`]
 
-paper link: [here](https://arxiv.org/pdf/1706.06083.pdf%E4%B8%AD%E6%9C%89%E4%BD%93%E7%8E%B0%EF%BC%8C%E4%BB%A5%E5%90%8E%E8%AF%B4%E5%88%B0CW%E6%94%BB%E5%87%BB%E5%86%8D%E7%BB%86%E8%AF%B4%E3%80%82)
+paper link: [here](https://arxiv.org/pdf/1706.06083.pdf)
 
 citation: 
 ```bibtex
