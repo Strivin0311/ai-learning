@@ -16,8 +16,6 @@ citation:
   year={2023}
 }
 ```
-    
-
 
 #### Break-A-Scene: Extracting Multiple Concepts from a Single Image [`UNREAD`]
 

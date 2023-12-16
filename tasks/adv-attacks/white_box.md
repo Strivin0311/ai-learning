@@ -179,7 +179,7 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/1608.04644.pdf?source=post_page)
 
-here's a [notebook](../../notebooks/C&W_attack_exp.ipynb) where implements and explains C&W and do some experiments on image adversarial attacks
+here's a [notebook](../../notebooks/C&W_attack_exp.ipynb) which implements and explains C&W and do some experiments on image adversarial attacks
 
 citation: 
 ```bibtex
