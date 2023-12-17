@@ -1,6 +1,52 @@
 # Gradient Descent Optimization
 *Here's some resources about Gradient Descending*
 
+
+
+#### A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.18988)
+
+citation: 
+```bibtex
+@article{curth2023u,
+  title={A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning},
+  author={Curth, Alicia and Jeffares, Alan and van der Schaar, Mihaela},
+  journal={arXiv preprint arXiv:2310.18988},
+  year={2023}
+}
+```
+
+#### Sharpness minimization algorithms do not only minimize sharpness to achieve better generalization [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.11007)
+
+citation: 
+```bibtex
+@article{wen2023sharpness,
+  title={Sharpness minimization algorithms do not only minimize sharpness to achieve better generalization},
+  author={Wen, Kaiyue and Ma, Tengyu and Li, Zhiyuan},
+  journal={arXiv preprint arXiv:2307.11007},
+  year={2023}
+}
+```
+    
+
+#### Abide by the Law and Follow the Flow: Conservation Laws for Gradient Flows [`UNREAD`]
+
+paper link: [here](https://inria.hal.science/hal-04150576/file/2307.00144.pdf)
+
+citation: 
+```bibtex
+@article{marcotte2023abide,
+  title={Abide by the Law and Follow the Flow: Conservation Laws for Gradient Flows},
+  author={Marcotte, Sibylle and Gribonval, R{\'e}mi and Peyr{\'e}, Gabriel},
+  year={2023}
+}
+```
+    
+
+
 #### An overview of gradient descent optimization algorithms [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1609.04747)

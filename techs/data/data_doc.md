@@ -2,6 +2,25 @@
 *Here's some resources about Data Documentation*
 
 
+#### Croissant ['UNREAD']
+
+github link: [here](https://github.com/mlcommons/croissant)
+
+homepage link: [here](https://mlcommons.org/working-groups/data/datasets/)
+
+citation:
+```bibtex
+@misc{Croissant,
+  author = {Pierre Marcenac},
+  title = {Croissant: a high-level format for machine learning datasets that brings together four rich layers},
+  year = {2013},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/mlcommons/croissant}},
+  commit = {38099b4c659b4ef099ad5e276738f4c3f09dc6c4}
+}
+```
+
 #### The Dataset Nutrition Label- A Framework To Drive Higher Data Quality Standards [`READ`]
 paper link: [here](https://arxiv.org/pdf/1805.03677.pdf)
 
@@ -19,7 +38,7 @@ citation:
 ```
 
 #### Datasheets for Datasets [`READ`]
-paper link: [here](https://arxiv.org/pdf/1803.09010.pdf?utm_campaign=The+Batch&%3Butm_source=hs_email&%3Butm_medium=email&%3B_hsenc=p2ANqtz-9JmBoFeaComVK6RRn4VwtmAlWynh99sjQcN1si-7wA-9w0I0BdOhqsxhzjM7t0vUWpe8NZ&ref=dl-staging-website.ghost.io)
+paper link: [here](https://arxiv.org/pdf/1803.09010.pdf)
 
 citation: 
 ```bibtex

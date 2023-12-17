@@ -2,14 +2,55 @@
 *Here's some resources about Theory for Deep Learning*
 
 
-## TextBooks
-
-#### Deep Learning (Flower Book) [`READ`]
-book link: [here](https://pan.baidu.com/s/1PDcCj4JiWsRlEStaHPchGA), with extraction code: `ya9y`
-
-
-
 ## Papers
+
+
+#### Balance, Imbalance, and Rebalance: Understanding Robust Overfitting from a Minimax Game Perspective [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.19360)
+
+citation: 
+```bibtex
+@article{wang2023balance,
+  title={Balance, Imbalance, and Rebalance: Understanding Robust Overfitting from a Minimax Game Perspective},
+  author={Wang, Yifei and Li, Liangchen and Yang, Jiansheng and Lin, Zhouchen and Wang, Yisen},
+  journal={arXiv preprint arXiv:2310.19360},
+  year={2023}
+}
+```
+    
+
+
+#### The clock and the pizza: Two stories in mechanistic explanation of neural networks [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.17844)
+
+citation: 
+```bibtex
+@article{zhong2023clock,
+  title={The clock and the pizza: Two stories in mechanistic explanation of neural networks},
+  author={Zhong, Ziqian and Liu, Ziming and Tegmark, Max and Andreas, Jacob},
+  journal={arXiv preprint arXiv:2306.17844},
+  year={2023}
+}
+```
+    
+
+#### Tracr: Compiled transformers as a laboratory for interpretability [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2301.05062.pdf)
+
+citation: 
+```bibtex
+@article{lindner2023tracr,
+  title={Tracr: Compiled transformers as a laboratory for interpretability},
+  author={Lindner, David and Kram{\'a}r, J{\'a}nos and Rahtz, Matthew and McGrath, Thomas and Mikulik, Vladimir},
+  journal={arXiv preprint arXiv:2301.05062},
+  year={2023}
+}
+```
+    
+
 
 #### Fast finite width neural tangent kernel [`READ`]
 
@@ -369,3 +410,8 @@ citation:
 ```
     
     
+
+## TextBooks
+
+#### Deep Learning (Flower Book) [`READ`]
+book link: [here](https://pan.baidu.com/s/1PDcCj4JiWsRlEStaHPchGA), with extraction code: `ya9y`

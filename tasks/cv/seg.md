@@ -1,6 +1,50 @@
-# Semantic Segmentation
-*Here's some resources about Semantic Segmentation*
+# Image Segmentation
+*Here's some resources about Image Segmentation*
 
+
+#### Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2311.17626)
+
+citation: 
+```bibtex
+@article{wang2023focus,
+  title={Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation},
+  author={Wang, Yuan and Luo, Naisong and Zhang, Tianzhu},
+  journal={arXiv preprint arXiv:2311.17626},
+  year={2023}
+}
+```
+
+
+#### Break-A-Scene: Extracting Multiple Concepts from a Single Image [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.16311)
+
+citation: 
+```bibtex
+@article{avrahami2023break,
+  title={Break-A-Scene: Extracting Multiple Concepts from a Single Image},
+  author={Avrahami, Omri and Aberman, Kfir and Fried, Ohad and Cohen-Or, Daniel and Lischinski, Dani},
+  journal={arXiv preprint arXiv:2305.16311},
+  year={2023}
+}
+``` 
+
+
+#### Segment everything everywhere all at once (SEEM) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.06718.pdf)
+
+citation: 
+```bibtex
+@article{zou2023segment,
+  title={Segment everything everywhere all at once},
+  author={Zou, Xueyan and Yang, Jianwei and Zhang, Hao and Li, Feng and Li, Linjie and Gao, Jianfeng and Lee, Yong Jae},
+  journal={arXiv preprint arXiv:2304.06718},
+  year={2023}
+}
+```
 
 #### High Quality Entity Segmentation [`UNREAD`]
 
@@ -17,20 +61,6 @@ citation:
 }
 ```
 
-#### Break-A-Scene: Extracting Multiple Concepts from a Single Image [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2305.16311)
-
-citation: 
-```bibtex
-@article{avrahami2023break,
-  title={Break-A-Scene: Extracting Multiple Concepts from a Single Image},
-  author={Avrahami, Omri and Aberman, Kfir and Fried, Ohad and Cohen-Or, Daniel and Lischinski, Dani},
-  journal={arXiv preprint arXiv:2305.16311},
-  year={2023}
-}
-```
-    
 
 #### Panoptic segformer: Delving deeper into panoptic segmentation with transformers [`UNREAD`]
 
@@ -46,7 +76,6 @@ citation:
   year={2022}
 }
 ```
-    
 
 #### Masked-attention mask transformer for universal image segmentation [`UNREAD`]
 
@@ -62,7 +91,8 @@ citation:
   year={2022}
 }
 ```
-    
+
+
 
 #### Per-pixel classification is not all you need for semantic segmentation [`UNREAD`]
 
@@ -79,7 +109,23 @@ citation:
   year={2021}
 }
 ```
-    
+  
+
+#### Upsnet: A unified panoptic segmentation network [`UNREAD`]
+
+paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_UPSNet_A_Unified_Panoptic_Segmentation_Network_CVPR_2019_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{xiong2019upsnet,
+  title={Upsnet: A unified panoptic segmentation network},
+  author={Xiong, Yuwen and Liao, Renjie and Zhao, Hengshuang and Hu, Rui and Bai, Min and Yumer, Ersin and Urtasun, Raquel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8818--8826},
+  year={2019}
+}
+```
+
 #### Panoptic segmentation [`UNREAD`]
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf)
@@ -95,6 +141,7 @@ citation:
 }
 ```
 
+
 #### Pointnet: Deep learning on point sets for 3d classification and segmentation [`UNREAD`]
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)
@@ -109,4 +156,7 @@ citation:
   year={2017}
 }
 ```
-     
+
+
+
+    

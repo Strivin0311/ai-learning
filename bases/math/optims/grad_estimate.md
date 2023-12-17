@@ -2,6 +2,21 @@
 *Here's some resources about Gradient Estimation*
 
 
+#### Bridging Discrete and Backpropagation: Straight-Through and Beyond [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.08612)
+
+citation: 
+```bibtex
+@article{liu2023bridging,
+  title={Bridging Discrete and Backpropagation: Straight-Through and Beyond},
+  author={Liu, Liyuan and Dong, Chengyu and Liu, Xiaodong and Yu, Bin and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:2304.08612},
+  year={2023}
+}
+```
+    
+
 
 #### Rebar: Low-variance, unbiased gradient estimates for discrete latent variable models [`READ`]
 

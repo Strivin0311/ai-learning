@@ -2,6 +2,22 @@
 *Here's some resources about Neural Architecture Search*
 
 
+#### EvoPrompting: Language Models for Code-Level Neural Architecture Search [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2302.14838)
+
+citation: 
+```bibtex
+@article{chen2023evoprompting,
+  title={EvoPrompting: Language Models for Code-Level Neural Architecture Search},
+  author={Chen, Angelica and Dohan, David M and So, David R},
+  journal={arXiv preprint arXiv:2302.14838},
+  year={2023}
+}
+```
+    
+
+
 #### DSNAS- Direct Neural Architecture Search without Parameter Retraining [`READ`]
 paper link: [here](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_DSNAS_Direct_Neural_Architecture_Search_Without_Parameter_Retraining_CVPR_2020_paper.pdf)
 

@@ -1,6 +1,27 @@
 # Optimization Theory
 *Here's some resources about Optimization*
 
+## Papers
+
+
+#### Stable Nonconvex-Nonconcave Training via Linear Interpolation [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.13459)
+
+citation: 
+```bibtex
+@article{pethick2023stable,
+  title={Stable Nonconvex-Nonconcave Training via Linear Interpolation},
+  author={Pethick, Thomas and Xie, Wanyun and Cevher, Volkan},
+  journal={arXiv preprint arXiv:2310.13459},
+  year={2023}
+}
+```
+    
+
+
+## TextBooks
+
 #### Convex Optimization [`READ`]
 book link: [here](https://pan.baidu.com/s/1QM34slgq5lUsxfaVAQGYIg), with extraction code: `jt97`
 

@@ -2,6 +2,22 @@
 *Here's some resources about Data Security*
 
 
+#### Dataperf: Benchmarks for data-centric ai development [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2207.10062)
+
+citation: 
+```bibtex
+@article{mazumder2022dataperf,
+  title={Dataperf: Benchmarks for data-centric ai development},
+  author={Mazumder, Mark and Banbury, Colby and Yao, Xiaozhe and Karla{\v{s}}, Bojan and Rojas, William Gaviria and Diamos, Sudnya and Diamos, Greg and He, Lynn and Parrish, Alicia and Kirk, Hannah Rose and others},
+  journal={arXiv preprint arXiv:2207.10062},
+  year={2022}
+}
+```
+    
+
+
 #### Threats to Federated Learning: A Survey [`UNREAD`]
 paper link: [here](https://arxiv.org/pdf/2003.02133)
 

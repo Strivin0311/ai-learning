@@ -2,19 +2,23 @@
 *Here's some resources about Transfer Learning*
 
 
-## TextBooks
-
-#### 迁移学习 [`UNREAD`]
-book link: [here](https://pan.baidu.com/s/1mcxYEl6dUElThgI8jhP1QQ), with extraction code: `yxs4`
-
-
-
-#### Hands-On Transfer Learning with Python [`UNREAD`]
-book link: [here](https://pan.baidu.com/s/1QLPYiWA7DeKrZEpb4f0XiA), with extraction code: `ce6w`
-
-
-
 ## Papers
+
+
+#### Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.08782)
+
+citation: 
+```bibtex
+@article{zhang2023selectivity,
+  title={Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning},
+  author={Zhang, Yihua and Zhang, Yimeng and Chen, Aochuan and Jia, Jinghan and Liu, Jiancheng and Liu, Gaowen and Hong, Mingyi and Chang, Shiyu and Liu, Sijia},
+  journal={arXiv preprint arXiv:2310.08782},
+  year={2023}
+}
+```
+    
 
 
 #### A Comprehensive Survey on Transfer Learning [`UNREAD`]
@@ -33,4 +37,20 @@ citation:
   publisher={IEEE}
 }
 ```
+
+
+
+## TextBooks
+
+#### 迁移学习 [`UNREAD`]
+book link: [here](https://pan.baidu.com/s/1mcxYEl6dUElThgI8jhP1QQ), with extraction code: `yxs4`
+
+
+
+#### Hands-On Transfer Learning with Python [`UNREAD`]
+book link: [here](https://pan.baidu.com/s/1QLPYiWA7DeKrZEpb4f0XiA), with extraction code: `ce6w`
+
+
+
+
 

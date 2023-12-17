@@ -2,6 +2,23 @@
 *Here's some resources about Out-of-Distribution Detection*
 
 
+#### Convolutional Visual Prompt for Robust Visual Perception ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2303.00198.pdf)
+
+citation: 
+```bibtex
+@misc{tsai2023convolutional,
+      title={Convolutional Visual Prompt for Robust Visual Perception}, 
+      author={Yun-Yun Tsai and Chengzhi Mao and Junfeng Yang},
+      year={2023},
+      eprint={2303.00198},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
 #### Generalized out-of-distribution detection- A survey [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2110.11334)

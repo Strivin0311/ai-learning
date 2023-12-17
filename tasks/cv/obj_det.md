@@ -330,6 +330,22 @@ citation:
 ### 3DOD - Anchor-free
 
 
+#### Leveraging vision-centric multi-modal expertise for 3d object detection [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.15670)
+
+citation: 
+```bibtex
+@article{huang2023leveraging,
+  title={Leveraging vision-centric multi-modal expertise for 3d object detection},
+  author={Huang, Linyan and Li, Zhiqi and Sima, Chonghao and Wang, Wenhai and Wang, Jingdong and Qiao, Yu and Li, Hongyang},
+  journal={arXiv preprint arXiv:2310.15670},
+  year={2023}
+}
+```
+    
+
+
 #### Objects as points (CenterNet) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1904.07850.pdf)
