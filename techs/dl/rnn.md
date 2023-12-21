@@ -2,9 +2,27 @@
 *Here's some resources about Recurrent Neural Networks*
 
 
+#### Deep contextualized word representations (ELMo) ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/1802.05365v2.pdf)
+
+citation:
+```bibtex
+@misc{peters2018deep,
+      title={Deep contextualized word representations}, 
+      author={Matthew E. Peters and Mark Neumann and Mohit Iyyer and Matt Gardner and Christopher Clark and Kenton Lee and Luke Zettlemoyer},
+      year={2018},
+      eprint={1802.05365},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+
 #### LSTM: A search space odyssey [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/1503.04069.pdf?fbclid=IwAR377Jhphz_xGSSThcqGUlAx8OJc_gU6Zwq8dABHOdS4WNOPRXA5LcHOjUg)
+paper link: [here](https://arxiv.org/pdf/1503.04069.pdf)
 
 citation: 
 ```bibtex
