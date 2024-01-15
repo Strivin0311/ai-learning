@@ -1,7 +1,7 @@
 # Gradient Descent Optimization
 *Here's some resources about Gradient Descending*
 
-
+## Paper
 
 #### A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning [`UNREAD`]
 
@@ -44,7 +44,39 @@ citation:
   year={2023}
 }
 ```
+
+
+#### Block Coordinate Descent on Smooth Manifolds: Convergence Theory and Twenty-One Examples [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.14744.pdf)
+
+citation:
+```bibtex
+@misc{peng2023block,
+      title={Block Coordinate Descent on Smooth Manifolds: Convergence Theory and Twenty-One Examples}, 
+      author={Liangzu Peng and René Vidal},
+      year={2023},
+      eprint={2305.14744},
+      archivePrefix={arXiv},
+      primaryClass={math.OC}
+}
+```
     
+#### Convergence of Stochastic Gradient Descent for PCA [`UNREAD`]
+
+paper link: [here](http://proceedings.mlr.press/v48/shamirb16.pdf)
+
+citation: 
+```bibtex
+@inproceedings{shamir2016convergence,
+  title={Convergence of stochastic gradient descent for PCA},
+  author={Shamir, Ohad},
+  booktitle={International Conference on Machine Learning},
+  pages={257--265},
+  year={2016},
+  organization={PMLR}
+}
+```
 
 
 #### An overview of gradient descent optimization algorithms [`UNREAD`]
@@ -134,6 +166,16 @@ citation:
 }
 ```
 
+
+## Lectures
+
+### Dual Ascent [`UNREAD`]
+
+slide link: [here](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/dual-ascent.pdf)
+
+#### Dual decomposition and dual algorithms [`UNREAD`]
+
+slide link: [here](https://class.ece.uw.edu/546/2016spr/lectures/dualdecomp.pdf)
 
 
 
