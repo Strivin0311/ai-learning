@@ -52,7 +52,7 @@ citation:
     
 
 
-#### Fast finite width neural tangent kernel [`READ`]
+#### Fast finite width neural tangent kernel (NTK) [`READ`]
 
 paper link: [here](https://proceedings.mlr.press/v162/novak22a/novak22a.pdf)
 

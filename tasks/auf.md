@@ -2,7 +2,7 @@
 *Here're some resources about Avoiding Undesired Future (AUF)*
 
 
-#### Rehearsal Learning for Avoiding Undesired Future ['UNREAD']
+#### Rehearsal Learning for Avoiding Undesired Future [`UNREAD`]
 
 paper link: [here](https://openreview.net/pdf?id=ZwQJRXLjVm)
 

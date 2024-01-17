@@ -2,7 +2,7 @@
 *Here's some resources about Data Documentation*
 
 
-#### Croissant ['UNREAD']
+#### Croissant [`UNREAD`]
 
 github link: [here](https://github.com/mlcommons/croissant)
 

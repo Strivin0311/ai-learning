@@ -39,7 +39,7 @@ citation:
 
 ### Methods
 
-#### DaRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation ['UNREAD']
+#### DaRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2305.19201.pdf)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Anormaly Detection*
 
 
-#### Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction ['UNREAD']
+#### Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction [`UNREAD`]
 
 paper link: [here](https://openreview.net/pdf?id=zfCNwRQ569)
 
@@ -19,7 +19,7 @@ citation:
 
 
 
-#### SANFlow: Semantic-Aware Normalizing Flow for Anomaly Detection ['UNREAD']
+#### SANFlow: Semantic-Aware Normalizing Flow for Anomaly Detection [`UNREAD`]
 
 paper link: [here](https://openreview.net/pdf?id=BqZ70BEtuW)
 
@@ -34,7 +34,7 @@ citation:
 }
 ```
 
-#### Daemon: Unsupervised anomaly detection and interpretation for multivariate time series ['UNREAD']
+#### Daemon: Unsupervised anomaly detection and interpretation for multivariate time series [`UNREAD`]
 
 paper link: [here](https://ieeexplore.ieee.org/document/9458835)
 

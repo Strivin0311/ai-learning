@@ -2,7 +2,7 @@
 *Here's some resources about Recurrent Neural Networks*
 
 
-#### Deep contextualized word representations (ELMo) ['UNREAD']
+#### Deep contextualized word representations (ELMo) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1802.05365v2.pdf)
 

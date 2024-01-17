@@ -2,7 +2,7 @@
 *Here's some resources about Out-of-Distribution Detection*
 
 
-#### Convolutional Visual Prompt for Robust Visual Perception ['UNREAD']
+#### Convolutional Visual Prompt for Robust Visual Perception [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2303.00198.pdf)
 
