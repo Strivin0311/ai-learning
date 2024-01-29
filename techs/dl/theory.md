@@ -102,17 +102,23 @@ citation:
 }
 ```
 
-#### Low-memory neural network training: A technical report [`UNREAD`]
+#### Sparse Networks from Scratch: Faster Training without Losing Performance [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/1904.10631)
+paper link: [here](https://arxiv.org/pdf/1907.04840.pdf)
+
+blog link: [here](https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/)
+
+slides link: [here](https://developer.download.nvidia.com/video/gputechconf/gtc/2020/presentations/s22085-accelerating-sparsity-in-the-nvidia-ampere-architecture%E2%80%8B.pdf)
 
 citation: 
 ```bibtex
-@article{sohoni2019low,
-  title={Low-memory neural network training: A technical report},
-  author={Sohoni, Nimit S and Aberger, Christopher R and Leszczynski, Megan and Zhang, Jian and R{\'e}, Christopher},
-  journal={arXiv preprint arXiv:1904.10631},
-  year={2019}
+@misc{dettmers2019sparse,
+      title={Sparse Networks from Scratch: Faster Training without Losing Performance}, 
+      author={Tim Dettmers and Luke Zettlemoyer},
+      year={2019},
+      eprint={1907.04840},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
     
@@ -127,6 +133,20 @@ citation:
   title={What can neural networks reason about?},
   author={Xu, Keyulu and Li, Jingling and Zhang, Mozhi and Du, Simon S and Kawarabayashi, Ken-ichi and Jegelka, Stefanie},
   journal={arXiv preprint arXiv:1905.13211},
+  year={2019}
+}
+```
+
+#### Low-memory neural network training: A technical report [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1904.10631)
+
+citation: 
+```bibtex
+@article{sohoni2019low,
+  title={Low-memory neural network training: A technical report},
+  author={Sohoni, Nimit S and Aberger, Christopher R and Leszczynski, Megan and Zhang, Jian and R{\'e}, Christopher},
+  journal={arXiv preprint arXiv:1904.10631},
   year={2019}
 }
 ```
