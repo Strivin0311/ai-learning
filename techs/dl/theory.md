@@ -371,6 +371,21 @@ citation:
   organization={PMLR}
 }
 ```
+
+
+#### Deep Networks With Large Output Spaces (Infrequent Normalisation) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1412.7479)
+
+citation: 
+```bibtex
+@article{vijayanarasimhan2014deep,
+  title={Deep networks with large output spaces},
+  author={Vijayanarasimhan, Sudheendra and Shlens, Jonathon and Monga, Rajat and Yagnik, Jay},
+  journal={arXiv preprint arXiv:1412.7479},
+  year={2014}
+}
+```
     
     
 

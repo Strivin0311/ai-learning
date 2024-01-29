@@ -12,6 +12,22 @@ book link: [here](https://pan.baidu.com/s/1VE4vLUMdpjxTqUj3G9KvQg), with extract
 ## Papers
 
 
+#### Fast and robust neural network joint models for statistical machine translation (Self-Normalisation) [`UNREAD`]
+
+paper link: [here](https://aclanthology.org/P14-1129.pdf)
+
+citation: 
+```bibtex
+@inproceedings{devlin2014fast,
+  title={Fast and robust neural network joint models for statistical machine translation},
+  author={Devlin, Jacob and Zbib, Rabih and Huang, Zhongqiang and Lamar, Thomas and Schwartz, Richard and Makhoul, John},
+  booktitle={proceedings of the 52nd annual meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={1370--1380},
+  year={2014}
+}
+```
+
+
 #### Shallow-to-deep training for neural machine translation [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2010.03737)

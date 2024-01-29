@@ -1,6 +1,7 @@
 # Text Generation
 *Here's some resources about Text Generation*
 
+
 #### A contrastive framework for neural text generation [`UNREAD`]
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/871cae8f599cb8bbfcb0f58fe1af95ad-Paper-Conference.pdf)
@@ -19,7 +20,7 @@ citation:
     
 
 
-#### Maskgan: better text generation via filling in the_ [`UNREAD`]
+#### Maskgan: better text generation via filling in the _ [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1801.07736.pdf)
 

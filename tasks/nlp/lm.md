@@ -1,5 +1,5 @@
-# Word Embedding
-*Here's some resources about Word Embedding*
+# Language Modeling + Word Embedding
+*Here's some resources about Language Modeling + Word Embedding*
     
 
 
@@ -33,7 +33,22 @@ citation:
 }
 ```
 
-#### Distributed representations of words and phrases and their compositionality [`UNREAD`]
+#### Fast and robust neural network joint models for statistical machine translation (Self-Normalisation) [`UNREAD`]
+
+paper link: [here](https://aclanthology.org/P14-1129.pdf)
+
+citation: 
+```bibtex
+@inproceedings{devlin2014fast,
+  title={Fast and robust neural network joint models for statistical machine translation},
+  author={Devlin, Jacob and Zbib, Rabih and Huang, Zhongqiang and Lamar, Thomas and Schwartz, Richard and Makhoul, John},
+  booktitle={proceedings of the 52nd annual meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={1370--1380},
+  year={2014}
+}
+```
+
+#### Distributed representations of words and phrases and their compositionality (Negative Sampling) [`UNREAD`]
 
 paper link: [here](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
@@ -60,6 +75,21 @@ citation:
   author={Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey},
   journal={arXiv preprint arXiv:1301.3781},
   year={2013}
+}
+```
+
+
+#### A Fast and Simple Algorithm for Training Neural Probabilistic Language Models (NCE) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1206.6426)
+
+citation: 
+```bibtex
+@article{mnih2012fast,
+  title={A fast and simple algorithm for training neural probabilistic language models},
+  author={Mnih, Andriy and Teh, Yee Whye},
+  journal={arXiv preprint arXiv:1206.6426},
+  year={2012}
 }
 ```
     
