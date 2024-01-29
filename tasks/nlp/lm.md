@@ -1,6 +1,22 @@
-# Language Modeling + Word Embedding
-*Here's some resources about Language Modeling + Word Embedding*
+# Language Modeling (Word Embedding)
+*Here's some resources about Language Modeling (Word Embedding)*
     
+    
+#### SimCSE: Simple Contrastive Learning of Sentence Embeddings [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2104.08821.pdf)
+
+citation:
+```bibtex
+@misc{gao2022simcse,
+      title={SimCSE: Simple Contrastive Learning of Sentence Embeddings}, 
+      author={Tianyu Gao and Xingcheng Yao and Danqi Chen},
+      year={2022},
+      eprint={2104.08821},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 #### Skip-thought vectors [`UNREAD`]

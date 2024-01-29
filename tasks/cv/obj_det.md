@@ -19,6 +19,24 @@ citation:
 }
 ```
 
+#### FaceNet: A Unified Embedding for Face Recognition and Clustering (Triplet Loss) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1503.03832.pdf)
+
+citation: 
+```bibtex
+@inproceedings{Schroff_2015,
+   title={FaceNet: A unified embedding for face recognition and clustering},
+   url={http://dx.doi.org/10.1109/CVPR.2015.7298682},
+   DOI={10.1109/cvpr.2015.7298682},
+   booktitle={2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+   publisher={IEEE},
+   author={Schroff, Florian and Kalenichenko, Dmitry and Philbin, James},
+   year={2015},
+   month=jun }
+
+```
+
 ### FSOD
 
 
