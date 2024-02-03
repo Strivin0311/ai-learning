@@ -1,5 +1,5 @@
 # Probability Theory
-*Here's some resources about Probability Theory*
+*Here're some resources about Probability Theory*
 
 #### 概率导论.第2版.修订版 [`UNREAD`]
 book link: [here](https://pan.baidu.com/s/1PtVBDwp4WlluQOfbbnMDwA), with extraction code: `fpxi`

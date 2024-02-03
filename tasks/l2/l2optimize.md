@@ -1,5 +1,5 @@
 # Learning to Optimize
-*Here's some resources about Learning to Optimize*
+*Here're some resources about Learning to Optimize*
 
 
 #### Machine learning for combinatorial optimization: a methodological tour d'horizon [`READ`]

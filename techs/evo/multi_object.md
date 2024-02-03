@@ -1,5 +1,5 @@
 # Multi-Objective Optimization
-*Here's some resources about Evolutionary Algorithms for Solving Multi-Objective Optimization Problem*
+*Here're some resources about Evolutionary Algorithms for Solving Multi-Objective Optimization Problem*
 
 ## Papers
 

@@ -1,5 +1,5 @@
 # Recurrent Neural Networks
-*Here's some resources about Recurrent Neural Networks*
+*Here're some resources about Recurrent Neural Networks*
 
 
 #### Deep contextualized word representations (ELMo) [`UNREAD`]

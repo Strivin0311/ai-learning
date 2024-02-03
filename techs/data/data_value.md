@@ -1,5 +1,5 @@
 # Data Valuation
-*Here's some resources about Data Valuation*
+*Here're some resources about Data Valuation*
 
 
 #### Data Shapley- Equitable Valuation of Data for Machine Learning [`READ`]

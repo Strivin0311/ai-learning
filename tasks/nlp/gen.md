@@ -1,5 +1,5 @@
 # Text Generation
-*Here's some resources about Text Generation*
+*Here're some resources about Text Generation*
 
 
 #### A contrastive framework for neural text generation [`UNREAD`]

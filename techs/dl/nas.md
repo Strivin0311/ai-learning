@@ -1,5 +1,5 @@
 # Neural Architecture Search
-*Here's some resources about Neural Architecture Search*
+*Here're some resources about Neural Architecture Search*
 
 
 #### EvoPrompting: Language Models for Code-Level Neural Architecture Search [`UNREAD`]

@@ -1,5 +1,5 @@
 # Continual Learning
-*Here's some resources about Continual Learning*
+*Here're some resources about Continual Learning*
 
 #### Embracing Change: Continual Learning in Deep Neural Networks [`UNREAD`]
 

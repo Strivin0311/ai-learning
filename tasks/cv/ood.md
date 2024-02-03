@@ -1,5 +1,5 @@
 # Out-of-Distribution Detection
-*Here's some resources about Out-of-Distribution Detection*
+*Here're some resources about Out-of-Distribution Detection*
 
 
 #### Convolutional Visual Prompt for Robust Visual Perception [`UNREAD`]

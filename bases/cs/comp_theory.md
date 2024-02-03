@@ -1,5 +1,5 @@
 # Computation Theory
-*Here's some resources about Computation Theory*
+*Here're some resources about Computation Theory*
 
 #### Computers and Intractability - A Guide to the Theory of NP-Completeness [`UNREAD`]
 book link: [here](https://pan.baidu.com/s/1i3_hqX8zopNo4VPiksxuRQ), with extraction code: `c8nu`

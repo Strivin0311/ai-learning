@@ -1,5 +1,5 @@
 # Learning to Search
-*Here's some resources about Learning to Search*
+*Here're some resources about Learning to Search*
 
 
 #### Learning to prune: Speeding up repeated computations [`UNREAD`]

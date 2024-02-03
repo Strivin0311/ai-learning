@@ -1,5 +1,5 @@
 # Image Segmentation
-*Here's some resources about Image Segmentation*
+*Here're some resources about Image Segmentation*
 
 
 #### Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation [`UNREAD`]

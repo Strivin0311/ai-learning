@@ -1,5 +1,5 @@
 # Neuro-Symbolic Learning
-*Here's some resources about Neuro-Symbolic Learning*
+*Here're some resources about Neuro-Symbolic Learning*
 
 
 ### Learning

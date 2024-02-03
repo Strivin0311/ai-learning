@@ -1,5 +1,5 @@
 # Data Generation
-*Here's some resources about Data Generation*
+*Here're some resources about Data Generation*
 
 
 #### Advances, challenges and opportunities in creating data for trustworthy AI [`READ`]

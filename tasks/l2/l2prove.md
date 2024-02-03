@@ -1,5 +1,5 @@
 # Learning to Prove
-*Here's some resources about Learning to Prove*
+*Here're some resources about Learning to Prove*
 
 
 

@@ -1,5 +1,5 @@
 # Meta Learning
-*Here's some resources about Meta Learning*
+*Here're some resources about Meta Learning*
 
 
 

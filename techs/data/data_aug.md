@@ -1,5 +1,5 @@
 # Data Augmentation
-*Here's some resources about Data Augmentation*
+*Here're some resources about Data Augmentation*
 
 #### Unsupervised data augmentation for consistency training [`UNREAD`]
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/44feb0096faa8326192570788b38c1d1-Paper.pdf)

@@ -1,5 +1,5 @@
 # Gradient Estimation
-*Here's some resources about Gradient Estimation*
+*Here're some resources about Gradient Estimation*
 
 
 #### Bridging Discrete and Backpropagation: Straight-Through and Beyond [`UNREAD`]

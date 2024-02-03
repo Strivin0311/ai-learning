@@ -1,5 +1,5 @@
 # Scholar Reasearch
-*Here's some resources about Scholar Reasearch*
+*Here're some resources about Scholar Reasearch*
 
 
 #### How to Read a Paper [`UNREAD`]

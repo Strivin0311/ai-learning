@@ -1,5 +1,5 @@
 # Language Modeling (Word Embedding)
-*Here's some resources about Language Modeling (Word Embedding)*
+*Here're some resources about Language Modeling (Word Embedding)*
     
     
 #### SimCSE: Simple Contrastive Learning of Sentence Embeddings [`UNREAD`]

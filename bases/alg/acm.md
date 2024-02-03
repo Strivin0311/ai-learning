@@ -1,5 +1,5 @@
 # ACM Contests
-*Here's some resources about ACM Contests*
+*Here're some resources about ACM Contests*
 
 #### 算法竞赛入门经典 第2版 [`READ`]
 book link: [here](https://pan.baidu.com/s/1Sibl-kveddMWmxaqMpyjtA), with extraction code: `vmzm`

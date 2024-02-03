@@ -1,5 +1,5 @@
 # Classic Machine Learning
-*Here's some resources about Classic Machine Learning*
+*Here're some resources about Classic Machine Learning*
 
 #### Pattern Recognition and Machine Learning [`READ`]
 book link: [here](https://pan.baidu.com/s/1lU9aA6l0f5tDah7r1FwHSA), with extraction code: `bg2k`

@@ -1,5 +1,5 @@
 # AI for Science
-*Here's some resources about AI for Science*
+*Here're some resources about AI for Science*
 
 
 #### Faster sorting algorithms discovered using deep reinforcement learning [`UNREAD`]

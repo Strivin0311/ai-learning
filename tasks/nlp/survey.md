@@ -1,5 +1,5 @@
 # Survey for NLP
-*Here's some resources about Survey for NLP*
+*Here're some resources about Survey for NLP*
 
 
 

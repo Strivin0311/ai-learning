@@ -1,5 +1,5 @@
 # Structure Learning
-*Here's some resources about Structure Learning*
+*Here're some resources about Structure Learning*
 
 
 #### Highly accurate protein structure prediction with AlphaFold [`UNREAD`]

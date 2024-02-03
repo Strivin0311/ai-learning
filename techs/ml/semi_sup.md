@@ -1,5 +1,5 @@
 # Semi-Supervised Learning
-*Here's some resources about Semi-Supervised Learning*
+*Here're some resources about Semi-Supervised Learning*
 
 
 

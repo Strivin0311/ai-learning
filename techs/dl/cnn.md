@@ -1,5 +1,5 @@
 # Convolutional Neutral Networks
-*Here's some resources about Convolutional Neutral Networks*
+*Here're some resources about Convolutional Neutral Networks*
 
 
 #### The reversible residual network: Backpropagation without storing activations (RevNet) [`UNREAD`]

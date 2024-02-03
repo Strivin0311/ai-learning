@@ -1,5 +1,5 @@
 # Linear Algebra
-*Here's some resources about Linear Algebra, epecially the Matrix Theory*
+*Here're some resources about Linear Algebra, epecially the Matrix Theory*
 
 ## Paper
 

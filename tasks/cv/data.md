@@ -1,10 +1,10 @@
 # Data for CV
-*Here's some resources about Data for CV*
+*Here're some resources about Data for CV*
 
 
 
 ## Data Augmentation
-*Here's some resources about Data Augmentation for CV*
+*Here're some resources about Data Augmentation for CV*
 
 
 #### A survey on Image Data Augmentation for Deep Learning [`READ`]
@@ -93,7 +93,7 @@ citation:
 
 
 ## Data Documentation
-*Here's some resources about Data Documentation for CV*
+*Here're some resources about Data Documentation for CV*
 
 
 #### Documenting Computer Vision Datasets- An Invitation to Reflexive Data Practices [`READ`]

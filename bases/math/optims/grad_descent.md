@@ -1,5 +1,5 @@
 # Gradient Descent Optimization
-*Here's some resources about Gradient Descending*
+*Here're some resources about Gradient Descending*
 
 ## Paper
 

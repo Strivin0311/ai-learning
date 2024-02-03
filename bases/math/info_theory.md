@@ -1,5 +1,5 @@
 # Information Theory
-*Here's some resources about Information Theory*
+*Here're some resources about Information Theory*
 
 
 #### Information Theory, Inference, and Learning Algorithms [`UNREAD`]

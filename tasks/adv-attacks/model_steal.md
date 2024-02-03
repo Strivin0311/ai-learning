@@ -1,5 +1,5 @@
 # Model-Stealing Attacks
-*Here's some resources about Model-Stealing Attacks*
+*Here're some resources about Model-Stealing Attacks*
 
 #### Es attack: Model stealing against deep neural networks without data hurdles [`UNREAD`]
 

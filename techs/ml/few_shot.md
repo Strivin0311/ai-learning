@@ -1,5 +1,5 @@
 # Few-Shot Learning
-*Here's some resources about Few-Shot Learning*
+*Here're some resources about Few-Shot Learning*
 
 
 #### A Survey on Machine Learning from Few Samples [`READ`]

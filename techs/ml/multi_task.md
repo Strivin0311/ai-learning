@@ -1,5 +1,5 @@
 # Multi-Task Learning
-*Here's some resources about Multi-Task Learning*
+*Here're some resources about Multi-Task Learning*
 
 
 

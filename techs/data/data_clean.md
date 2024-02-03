@@ -1,5 +1,5 @@
 # Data Cleaning
-*Here's some resources about Data Cleaning*
+*Here're some resources about Data Cleaning*
 
 
 #### Confident Learning: Estimating Uncertainty in Dataset Labels [`UNREAD`]

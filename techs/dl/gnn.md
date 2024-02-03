@@ -1,5 +1,5 @@
 # Graph Neural Networks
-*Here's some resources about Graph Neural Networks*
+*Here're some resources about Graph Neural Networks*
 
 ## TextBooks
 

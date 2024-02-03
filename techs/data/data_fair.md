@@ -1,5 +1,5 @@
 # Data Fairness
-*Here's some resources about Data Fairness*
+*Here're some resources about Data Fairness*
 
 
 #### Towards Fairer Datasets- Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy [`UNREAD`]

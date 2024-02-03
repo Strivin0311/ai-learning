@@ -1,5 +1,5 @@
 # Ensemble Learning
-*Here's some resources about Ensemble Learning*
+*Here're some resources about Ensemble Learning*
 
 
 #### Ensemble methods- foundations and algorithms [`UNREAD`]

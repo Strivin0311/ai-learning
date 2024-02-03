@@ -1,5 +1,5 @@
 # Algorithm Desgin and Analysis
-*Here's some resources about Algorithm Desgin and Analysis*
+*Here're some resources about Algorithm Desgin and Analysis*
 
 
 #### Algorithm Design [`UNREAD`]

@@ -1,5 +1,5 @@
 # Learning to Solve
-*Here's some resources about Learning to Solve*
+*Here're some resources about Learning to Solve*
 
 #### Guiding high-performance SAT solvers with unsat-core predictions [`UNREAD`]
 

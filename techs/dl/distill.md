@@ -1,5 +1,5 @@
 # Knowledge Distillation
-*Here's some resources about Knowledge Distillation*
+*Here're some resources about Knowledge Distillation*
 
 
 #### Dreaming to Distill- Data-free Knowledge Transfer via DeepInversion [`UNREAD`]

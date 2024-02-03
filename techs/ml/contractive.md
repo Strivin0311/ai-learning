@@ -1,5 +1,5 @@
 # Contrastive Learning / Metric Learning
-*Here's some resources about Contrastive Learning / Metric Learning*
+*Here're some resources about Contrastive Learning / Metric Learning*
 
 
 #### SimCSE: Simple Contrastive Learning of Sentence Embeddings [`UNREAD`]

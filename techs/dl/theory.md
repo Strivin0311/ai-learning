@@ -1,5 +1,5 @@
 # Theory for Deep Learning
-*Here's some resources about Theory for Deep Learning*
+*Here're some resources about Theory for Deep Learning*
 
 
 ## Papers

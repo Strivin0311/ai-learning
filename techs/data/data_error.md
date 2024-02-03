@@ -1,5 +1,5 @@
 # Data Error Identification
-*Here's some resources about Data Error Identification*
+*Here're some resources about Data Error Identification*
 
 #### Domino- Discovering Systematic Errors With Cross-Modal Embeddings [`READ`]
 paper link: [here](https://arxiv.org/pdf/2203.14960)

@@ -1,5 +1,5 @@
 # Genetic Algorithm
-*Here's some resources about Genetic Algorithm*
+*Here're some resources about Genetic Algorithm*
 
 
 ## Papers

@@ -1,5 +1,5 @@
 # Federated Learning
-*Here's some resources about Federated Learning*
+*Here're some resources about Federated Learning*
 
 #### FedML: A Research Library and Benchmark for Federated Machine Learning [`UNREAD`]
 
