@@ -1,6 +1,10 @@
 # Classic Machine Learning
 *Here're some resources about Classic Machine Learning*
 
+
+#### Data Driven Science & Engineering Machine Learning, Dynamical Systems, and Control [`READ`]
+book link: [here](http://databookuw.com/databook.pdf)
+
 #### Pattern Recognition and Machine Learning [`READ`]
 book link: [here](https://pan.baidu.com/s/1lU9aA6l0f5tDah7r1FwHSA), with extraction code: `bg2k`
 
