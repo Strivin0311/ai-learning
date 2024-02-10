@@ -1,6 +1,23 @@
 # Continual Learning
 *Here're some resources about Continual Learning*
 
+
+#### Task Arithmetic with LoRA for Continual Learning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2311.02428.pdf)
+
+citation:
+```bibtex
+@misc{chitale2023task,
+      title={Task Arithmetic with LoRA for Continual Learning}, 
+      author={Rajas Chitale and Ankit Vaidya and Aditya Kane and Archana Ghotkar},
+      year={2023},
+      eprint={2311.02428},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 #### Embracing Change: Continual Learning in Deep Neural Networks [`UNREAD`]
 
 paper link: [here](https://www.cell.com/trends/cognitive-sciences/pdf/S1364-6613(20)30219-9.pdf)

@@ -1,7 +1,21 @@
 # Meta Learning
 *Here're some resources about Meta Learning*
 
+#### General-Purpose In-Context Learning by Meta-Learning Transformers [`READ`]
 
+paper link: [here](https://arxiv.org/pdf/2212.04458.pdf)
+
+citation:
+```bibtex
+@misc{kirsch2024generalpurpose,
+      title={General-Purpose In-Context Learning by Meta-Learning Transformers}, 
+      author={Louis Kirsch and James Harrison and Jascha Sohl-Dickstein and Luke Metz},
+      year={2024},
+      eprint={2212.04458},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
 #### Modular meta-learning with shrinkage [`UNREAD`]
 

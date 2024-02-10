@@ -1,6 +1,24 @@
 # Federated Learning
 *Here're some resources about Federated Learning*
 
+
+#### HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.09970.pdf)
+
+citation:
+```bibtex
+@misc{halbe2023hepco,
+      title={HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning}, 
+      author={Shaunak Halbe and James Seale Smith and Junjiao Tian and Zsolt Kira},
+      year={2023},
+      eprint={2306.09970},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
 #### FedML: A Research Library and Benchmark for Federated Machine Learning [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2007.13518.pdf)

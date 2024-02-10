@@ -2,6 +2,23 @@
 *Here're some resources about Machine Unlearning*
 
 
+#### Large Language Model Unlearning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.10683.pdf)
+
+citation:
+```bibtex
+@misc{yao2023large,
+      title={Large Language Model Unlearning}, 
+      author={Yuanshun Yao and Xiaojun Xu and Yang Liu},
+      year={2023},
+      eprint={2310.10683},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 #### Towards Unbounded Machine Unlearning [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2302.09880)
