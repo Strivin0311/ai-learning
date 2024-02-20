@@ -37,7 +37,7 @@ citation:
 }
 ```
 
-#### Bayesian PCA
+### Bayesian PCA
 
 #### Bayesian peA [`UNREAD`]
 
@@ -74,7 +74,7 @@ citation:
 ```
 
 
-#### Regular PCA
+### Regular PCA
 
 
 #### PCA versus LDA [`UNREAD`]
