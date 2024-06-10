@@ -2,7 +2,6 @@
 *Here're some resources about Tricks for Deep Learning*
 
 
-
 #### Decoupled Weight Decay Regularization [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1711.05101)

@@ -34,6 +34,24 @@ citation:
   year={2023}
 }
 ```
+
+
+#### Loss Spike in Training Neural Networks [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.12133)
+
+citation:
+
+```bibtex
+@misc{zhang2023loss,
+      title={Loss Spike in Training Neural Networks}, 
+      author={Zhongwang Zhang and Zhi-Qin John Xu},
+      year={2023},
+      eprint={2305.12133},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
     
 
 #### Tracr: Compiled transformers as a laboratory for interpretability [`UNREAD`]
@@ -86,6 +104,25 @@ citation:
   publisher={ACM New York, NY, USA}
 }
 ```
+
+
+#### The Hardware Lottery [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2009.06489)
+
+citation:
+
+```bibtex
+@misc{hooker2020hardware,
+      title={The Hardware Lottery}, 
+      author={Sara Hooker},
+      year={2020},
+      eprint={2009.06489},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
+}
+```
+
 
 #### Wide neural networks of any depth evolve as linear models under gradient descent [`UNREAD`]
 
@@ -183,7 +220,7 @@ citation:
 ```
     
 
-#### The matrix calculus you need for deep learning [`READ`]
+#### The matrix calculus you need for deep learning [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1802.01528.pdf)
 
