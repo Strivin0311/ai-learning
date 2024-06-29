@@ -3,31 +3,31 @@
 
 ## Textbook
 
-#### Data Driven Science & Engineering Machine Learning, Dynamical Systems, and Control [`READ`]
+#### Data Driven Science & Engineering Machine Learning, Dynamical Systems, and Control
 
 book link: [here](http://databookuw.com/databook.pdf)
 
-#### Pattern Recognition and Machine Learning [`READ`]
+#### Pattern Recognition and Machine Learning
 
 book link: [here](https://pan.baidu.com/s/1lU9aA6l0f5tDah7r1FwHSA), with extraction code: `bg2k`
 
-#### 机器学习 西瓜书 [`READ`]
+#### 机器学习 西瓜书
 
 book link: [here](https://pan.baidu.com/s/1telt9anNmBqQPbAt0ezvDw), with extraction code: `fyq1`
 
-#### 机器学习实战：基于Scikit-Learn、Keras和TensorFlow 第2版 [`READ`]
+#### 机器学习实战：基于Scikit-Learn、Keras和TensorFlow 第2版
 
 book link: [here](https://pan.baidu.com/s/12__OY6yzVoCfcrX9n8elUw), with extraction code: `8hkw`
 
-#### 统计学习方法 第2版 [`READ`]
+#### 统计学习方法 第2版
 
 book link: [here](https://pan.baidu.com/s/1oh6ygaSucDkNBfLDcNemWw), with extraction code: `psij`
 
-#### 机器学习实战 Machine Learning in Action [`READ`]
+#### 机器学习实战 Machine Learning in Action
 
 book link: [here](https://pan.baidu.com/s/10V1kdmIJMsTuy0ToOU6wOw), with extraction code: `ii2h`
 
-#### Foundations of Machine Learning [`READ`]
+#### Foundations of Machine Learning
 
 book link: [here](https://pan.baidu.com/s/1lbCQHa8HATTiq17pZSDFSQ), with extraction code: `6qq6`
 

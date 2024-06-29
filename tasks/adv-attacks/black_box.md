@@ -2,7 +2,7 @@
 *Here're some resources about Black-Box Adversarial Attacks*
 
 
-#### An approximated gradient sign method using differential evolution for black-box adversarial attack [`UNREAD`]
+#### An approximated gradient sign method using differential evolution for black-box adversarial attack
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/9714259)
 
@@ -21,7 +21,7 @@ citation:
 ```
     
 
-#### Attention‐guided black‐box adversarial attacks with large‐scale multiobjective evolutionary optimization [`UNREAD`]
+#### Attention‐guided black‐box adversarial attacks with large‐scale multiobjective evolutionary optimization
 
 paper link: [here](https://arxiv.org/pdf/2101.07512)
 
@@ -40,7 +40,7 @@ citation:
 ```
     
 
-#### An evolutionary, gradient-free, query-efficient, black-box algorithm for generating adversarial instances in deep convolutional neural networks [`UNREAD`]
+#### An evolutionary, gradient-free, query-efficient, black-box algorithm for generating adversarial instances in deep convolutional neural networks
 
 paper link: [here](https://www.mdpi.com/1999-4893/15/11/407/htm)
 
@@ -60,7 +60,7 @@ citation:
     
 
 
-#### Hopskipjumpattack: A query-efficient decision-based attack [`READ`]
+#### Hopskipjumpattack: A query-efficient decision-based attack
 
 paper link: [here](https://arxiv.org/pdf/1904.02144)
 
@@ -77,7 +77,7 @@ citation:
 ```
     
 
-#### A black-box attack on neural networks based on swarm evolutionary algorithm [`UNREAD`]
+#### A black-box attack on neural networks based on swarm evolutionary algorithm
 
 paper link: [here](https://arxiv.org/pdf/1901.09892)
 
@@ -93,7 +93,7 @@ citation:
 }
 ```
     
-#### POBA-GA: Perturbation optimized black-box adversarial attacks via genetic algorithm [`UNREAD`]
+#### POBA-GA: Perturbation optimized black-box adversarial attacks via genetic algorithm
 
 paper link: [here](https://arxiv.org/pdf/1906.03181)
 
@@ -110,7 +110,7 @@ citation:
 }
 ```
     
-#### Query-efficient hard-label black-box attack: An optimization-based approach [`UNREAD`]
+#### Query-efficient hard-label black-box attack: An optimization-based approach
 
 paper link: [here](https://arxiv.org/pdf/1807.04457.pdf)
 
@@ -124,7 +124,7 @@ citation:
 }
 ```
 
-#### Black-box adversarial attacks with limited queries and information [`UNREAD`]
+#### Black-box adversarial attacks with limited queries and information
 
 paper link: [here](http://proceedings.mlr.press/v80/ilyas18a/ilyas18a.pdf)
 
@@ -140,7 +140,7 @@ citation:
 }
 ```
     
-#### Decision-based adversarial attacks: Reliable attacks against black-box machine learning models [`UNREAD`]
+#### Decision-based adversarial attacks: Reliable attacks against black-box machine learning models
 
 paper link: [here](https://arxiv.org/pdf/1712.04248)
 
@@ -155,7 +155,7 @@ citation:
 ```
     
     
-#### Zoo: Zeroth order optimization based black-box attacks to deep neural networks without training substitute models [`UNREAD`]
+#### Zoo: Zeroth order optimization based black-box attacks to deep neural networks without training substitute models
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3128572.3140448)
 
@@ -171,7 +171,7 @@ citation:
 ```
     
 
-#### Simple Black-Box Adversarial Attacks on Deep Neural Networks. [`READ`]
+#### Simple Black-Box Adversarial Attacks on Deep Neural Networks.
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w16/papers/Kasiviswanathan_Simple_Black-Box_Adversarial_CVPR_2017_paper.pdf)
 
@@ -187,7 +187,7 @@ citation:
 }
 ```
     
-#### Transferability in machine learning: from phenomena to black-box attacks using adversarial samples [`READ`]
+#### Transferability in machine learning: from phenomena to black-box attacks using adversarial samples
 
 paper link: [here](https://arxiv.org/pdf/1605.07277)
 

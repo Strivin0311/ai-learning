@@ -2,7 +2,7 @@
 *Here're some resources about Learning to Search*
 
 
-#### Learning to prune: Speeding up repeated computations [`UNREAD`]
+#### Learning to prune: Speeding up repeated computations
 
 paper link: [here](http://proceedings.mlr.press/v99/alabi19a/alabi19a.pdf)
 
@@ -18,7 +18,7 @@ citation:
 }
 ```
 
-#### Learning to search with MCTSnets [`READ`]
+#### Learning to search with MCTSnets
 
 paper link: [here](http://proceedings.mlr.press/v80/guez18a/guez18a.pdf)
 
@@ -36,7 +36,7 @@ citation:
     
 
 
-#### Learning to branch [`UNREAD`]
+#### Learning to branch
 
 paper link: [here](http://proceedings.mlr.press/v80/balcan18a/balcan18a.pdf)
 
@@ -52,7 +52,7 @@ citation:
 }
 ```
 
-#### Learning to search better than your teacher [`UNREAD`]
+#### Learning to search better than your teacher
 
 paper link: [here](http://proceedings.mlr.press/v37/changb15.pdf)
 
@@ -70,7 +70,7 @@ citation:
     
 
 
-#### Learning to search in branch and bound algorithms [`UNREAD`]
+#### Learning to search in branch and bound algorithms
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2014/file/757f843a169cc678064d9530d12a1881-Paper.pdf)
 
@@ -85,7 +85,7 @@ citation:
 }
 ```
 
-#### Learning to search: Functional gradient techniques for imitation learning [`UNREAD`]
+#### Learning to search: Functional gradient techniques for imitation learning
 
 paper link: [here](https://link.springer.com/article/10.1007/s10514-009-9121-3)
 

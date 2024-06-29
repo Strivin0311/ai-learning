@@ -2,7 +2,7 @@
 *Here're some resources about Neuro-Symbolic Programming*
 
 
-#### Neuro-symbolic program search for autonomous driving decision module design [`READ`]
+#### Neuro-symbolic program search for autonomous driving decision module design
 
 paper link: [here](https://proceedings.mlr.press/v155/sun21a/sun21a.pdf)
 
@@ -20,7 +20,7 @@ citation:
     
 
 
-#### Deepproblog: Neural probabilistic logic programming [`READ`]
+#### Deepproblog: Neural probabilistic logic programming
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2018/file/dc5d637ed5e62c36ecb73b654b05ba2a-Paper.pdf)
 

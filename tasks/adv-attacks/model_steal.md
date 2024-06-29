@@ -1,7 +1,7 @@
 # Model-Stealing Attacks
 *Here're some resources about Model-Stealing Attacks*
 
-#### Es attack: Model stealing against deep neural networks without data hurdles [`UNREAD`]
+#### Es attack: Model stealing against deep neural networks without data hurdles
 
 paper link: [here](https://arxiv.org/pdf/2009.09560)
 
@@ -20,7 +20,7 @@ citation:
 ```
     
 
-#### CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples. [`UNREAD`]
+#### CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples.
 
 paper link: [here](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24178-paper.pdf)
 

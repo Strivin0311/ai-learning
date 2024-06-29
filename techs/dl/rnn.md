@@ -2,7 +2,7 @@
 *Here're some resources about Recurrent Neural Networks*
 
 
-#### Deep contextualized word representations (ELMo) [`UNREAD`]
+#### Deep contextualized word representations (ELMo)
 
 paper link: [here](https://arxiv.org/pdf/1802.05365v2.pdf)
 
@@ -20,7 +20,7 @@ citation:
 
 
 
-#### LSTM: A search space odyssey [`UNREAD`]
+#### LSTM: A search space odyssey
 
 paper link: [here](https://arxiv.org/pdf/1503.04069.pdf)
 
@@ -38,7 +38,7 @@ citation:
 }
 ```
     
-#### Empirical evaluation of gated recurrent neural networks on sequence modeling (GRU) [`UNREAD`]
+#### Empirical evaluation of gated recurrent neural networks on sequence modeling (GRU)
 
 paper link: [here](https://arxiv.org/pdf/1412.3555)
 

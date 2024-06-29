@@ -2,7 +2,7 @@
 *Here're some resources about Out-of-Distribution Detection*
 
 
-#### Convolutional Visual Prompt for Robust Visual Perception [`UNREAD`]
+#### Convolutional Visual Prompt for Robust Visual Perception
 
 paper link: [here](https://arxiv.org/pdf/2303.00198.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### Generalized out-of-distribution detection- A survey [`READ`]
+#### Generalized out-of-distribution detection- A survey
 
 paper link: [here](https://arxiv.org/pdf/2110.11334)
 
@@ -33,7 +33,7 @@ citation:
 }
 ```
 
-#### OOD-MAML: Meta-learning for few-shot out-of-distribution detection and classification [`UNREAD`]
+#### OOD-MAML: Meta-learning for few-shot out-of-distribution detection and classification
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)
 
@@ -52,7 +52,7 @@ citation:
 
 
 
-#### Generalized ODIN- Detecting Out-of-distribution Image without Learning from Out-of-distribution Data [`READ`]
+#### Generalized ODIN- Detecting Out-of-distribution Image without Learning from Out-of-distribution Data
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)
 
@@ -68,7 +68,7 @@ citation:
 ```
 
 
-#### Learning Confidence for Out-of-Distribution Detection in Neural Networks [`READ`]
+#### Learning Confidence for Out-of-Distribution Detection in Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/1802.04865)
 
@@ -82,7 +82,7 @@ citation:
 }
 ```
 
-#### Out-of-Distribution Detection using Multiple Semantic Label Representations [`READ`]
+#### Out-of-Distribution Detection using Multiple Semantic Label Representations
 
 paper link: [here](https://proceedings.neurips.cc/paper/2018/file/2151b4c76b4dcb048d06a5c32942b6f6-Paper.pdf)
 
@@ -99,7 +99,7 @@ citation:
     
 
 
-#### A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks [`READ`]
+#### A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks
 
 paper link: [here](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)
 
@@ -115,7 +115,7 @@ citation:
 ```
     
 
-#### Improving Reconstruction Autoencoder Out-of-distribution Detection with Mahalanobis Distance [`READ`]
+#### Improving Reconstruction Autoencoder Out-of-distribution Detection with Mahalanobis Distance
 
 paper link: [here](https://arxiv.org/pdf/1812.02765)
 
@@ -131,7 +131,7 @@ citation:
 
 
 
-#### Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [`READ`]
+#### Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/1706.02690)
 
@@ -147,7 +147,7 @@ citation:
 
 
 
-#### A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks [`READ`]
+#### A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/1610.02136)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Gradient Estimation*
 
 
-#### Bridging Discrete and Backpropagation: Straight-Through and Beyond [`UNREAD`]
+#### Bridging Discrete and Backpropagation: Straight-Through and Beyond
 
 paper link: [here](https://arxiv.org/pdf/2304.08612)
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### Rebar: Low-variance, unbiased gradient estimates for discrete latent variable models [`READ`]
+#### Rebar: Low-variance, unbiased gradient estimates for discrete latent variable models
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/ebd6d2f5d60ff9afaeda1a81fc53e2d0-Paper.pdf)
 
@@ -34,7 +34,7 @@ citation:
 ```
     
 
-#### Backpropagation through the void: Optimizing control variates for black-box gradient estimation [`UNREAD`]
+#### Backpropagation through the void: Optimizing control variates for black-box gradient estimation
 
 paper link: [here](https://arxiv.org/pdf/1711.00123)
 
@@ -49,7 +49,7 @@ citation:
 ```
 
 
-#### The concrete distribution: A continuous relaxation of discrete random variables [`READ`]
+#### The concrete distribution: A continuous relaxation of discrete random variables
 
 paper link: [here](https://arxiv.org/pdf/1611.00712)
 
@@ -65,7 +65,7 @@ citation:
     
 
 
-#### Gradient estimation using stochastic computation graphs [`READ`]
+#### Gradient estimation using stochastic computation graphs
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2015/file/de03beffeed9da5f3639a621bcab5dd4-Paper.pdf)
 

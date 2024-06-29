@@ -4,7 +4,7 @@
 
 ### Learning
 
-#### Neuro-symbolic Learning Yielding Logical Constraints [`READ`]
+#### Neuro-symbolic Learning Yielding Logical Constraints
 
 paper link: [here](https://openreview.net/pdf?id=2ioRi2uwLR)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### Semantic Strengthening of Neuro-Symbolic Learning [`READ`]
+#### Semantic Strengthening of Neuro-Symbolic Learning
 
 paper link: [here](https://proceedings.mlr.press/v206/ahmed23a/ahmed23a.pdf)
 
@@ -39,7 +39,7 @@ citation:
     
 
 
-#### Learning to Solve Constraint Satisfaction Problems with Recurrent Transformer [`READ`]
+#### Learning to Solve Constraint Satisfaction Problems with Recurrent Transformer
 
 paper link: [here](https://arxiv.org/pdf/2307.04895)
 
@@ -53,7 +53,7 @@ citation:
 }
 ```
 
-#### Injecting logical constraints into neural networks via straight-through estimators [`UNREAD`]
+#### Injecting logical constraints into neural networks via straight-through estimators
 
 paper link: [here](https://proceedings.mlr.press/v162/yang22h/yang22h.pdf)
 
@@ -70,7 +70,7 @@ citation:
 ```
 
 
-#### Softened Symbol Grounding for Neuro-symbolic Systems [`READ`]
+#### Softened Symbol Grounding for Neuro-symbolic Systems
 
 paper link: [here](https://openreview.net/pdf?id=HTJE5Krui0g)
 
@@ -84,7 +84,7 @@ citation:
 }
 ```
 
-#### Neuro-symbolic language modeling with automaton-augmented retrieval [`UNREAD`]
+#### Neuro-symbolic language modeling with automaton-augmented retrieval
 
 paper link: [here](https://proceedings.mlr.press/v162/alon22a/alon22a.pdf)
 
@@ -101,7 +101,7 @@ citation:
 ```
     
 
-#### Multiplexnet: Towards fully satisfied logical constraints in neural networks [`UNREAD`]
+#### Multiplexnet: Towards fully satisfied logical constraints in neural networks
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/view/20512/20271)
 
@@ -118,7 +118,7 @@ citation:
 }
 ```
     
-#### Techniques for symbol grounding with satnet [`READ`]
+#### Techniques for symbol grounding with satnet
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/ad7ed5d47b9baceb12045a929e7e2f66-Paper.pdf)
 
@@ -135,7 +135,7 @@ citation:
 ```
     
 
-#### Satnet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver [`READ`]
+#### Satnet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver
 
 paper link: [here](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf)
 
@@ -151,7 +151,7 @@ citation:
 }
 ```
     
-#### Differentiation of blackbox combinatorial solvers [`READ`]
+#### Differentiation of blackbox combinatorial solvers
 
 paper link: [here](https://openreview.net/pdf?id=BkevoJSYPB)
 
@@ -167,7 +167,7 @@ citation:
     
     
 
-#### Closed loop neural-symbolic learning via integrating neural perception, grammar parsing, and symbolic reasoning [`UNREAD`]
+#### Closed loop neural-symbolic learning via integrating neural perception, grammar parsing, and symbolic reasoning
 
 paper link: [here](http://proceedings.mlr.press/v119/li20f/li20f.pdf)
 
@@ -185,7 +185,7 @@ citation:
     
 
 
-#### A semantic loss function for deep learning with symbolic knowledge [`READ`]
+#### A semantic loss function for deep learning with symbolic knowledge
 
 paper link: [here](http://proceedings.mlr.press/v80/xu18h/xu18h.pdf)
 
@@ -202,7 +202,7 @@ citation:
 ```
 
 
-#### Neural module networks [`UNREAD`]
+#### Neural module networks
 
 paper link: [here](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf)
 

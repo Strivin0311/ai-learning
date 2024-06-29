@@ -5,7 +5,7 @@
 ## Papers
 
 
-#### Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning [`UNREAD`]
+#### Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning
 
 paper link: [here](https://arxiv.org/pdf/2310.08782)
 
@@ -21,7 +21,7 @@ citation:
     
 
 
-#### A Comprehensive Survey on Transfer Learning [`UNREAD`]
+#### A Comprehensive Survey on Transfer Learning
 paper link: [here](https://arxiv.org/pdf/1911.02685)
 
 citation: 
@@ -42,12 +42,12 @@ citation:
 
 ## TextBooks
 
-#### 迁移学习 [`UNREAD`]
+#### 迁移学习
 book link: [here](https://pan.baidu.com/s/1mcxYEl6dUElThgI8jhP1QQ), with extraction code: `yxs4`
 
 
 
-#### Hands-On Transfer Learning with Python [`UNREAD`]
+#### Hands-On Transfer Learning with Python
 book link: [here](https://pan.baidu.com/s/1QLPYiWA7DeKrZEpb4f0XiA), with extraction code: `ce6w`
 
 

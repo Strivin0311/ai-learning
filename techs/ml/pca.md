@@ -4,7 +4,7 @@
 ### Robust PCA (RPCA)
 
 
-#### Robust Principal Component Analysis for Modal Decomposition of Corrupt Fluid Flows [`UNREAD`]
+#### Robust Principal Component Analysis for Modal Decomposition of Corrupt Fluid Flows
 
 paper link: [here](https://arxiv.org/pdf/0912.3599.pdf)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### Robust Principal Component Analysis? [`READ`]
+#### Robust Principal Component Analysis?
 
 paper link: [here](https://arxiv.org/pdf/0912.3599.pdf)
 
@@ -39,7 +39,7 @@ citation:
 
 ### Bayesian PCA
 
-#### Bayesian peA [`UNREAD`]
+#### Bayesian peA
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/1998/file/c88d8d0a6097754525e02c2246d8d27f-Paper.pdf)
 
@@ -58,7 +58,7 @@ citation:
 ### Sensitive PCA
 
 
-#### EM algorithms for PCA and SPCA [`UNREAD`]
+#### EM algorithms for PCA and SPCA
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/1997/hash/d9731321ef4e063ebbee79298fa36f56-Abstract.html)
 
@@ -77,7 +77,7 @@ citation:
 ### Regular PCA
 
 
-#### PCA versus LDA [`UNREAD`]
+#### PCA versus LDA
 
 paper link: [here](http://syllabus.cs.manchester.ac.uk/pgt/2019/COMP61021/reference/PCA-LDA.pdf)
 
@@ -95,7 +95,7 @@ citation:
 }
 ```
 
-#### Automatic choice of dimensionality for PCA [`UNREAD`]
+#### Automatic choice of dimensionality for PCA
 
 paper link: [here](https://proceedings.neurips.cc/paper/2000/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)
 

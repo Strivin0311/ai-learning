@@ -1,7 +1,7 @@
 # Meta Learning
 *Here're some resources about Meta Learning*
 
-#### General-Purpose In-Context Learning by Meta-Learning Transformers [`READ`]
+#### General-Purpose In-Context Learning by Meta-Learning Transformers
 
 paper link: [here](https://arxiv.org/pdf/2212.04458.pdf)
 
@@ -17,7 +17,7 @@ citation:
 }
 ```
 
-#### Modular meta-learning with shrinkage [`UNREAD`]
+#### Modular meta-learning with shrinkage
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/1e04b969bf040acd252e1faafb51f829-Paper.pdf)
 
@@ -35,7 +35,7 @@ citation:
     
 
 
-#### Meta-learning with implicit gradients (iMAML) [`UNREAD`]
+#### Meta-learning with implicit gradients (iMAML)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/072b030ba126b2f4b2374f342be9ed44-Paper.pdf)
 
@@ -50,7 +50,7 @@ citation:
 }
 ```
 
-#### How to train your MAML [`UNREAD`]
+#### How to train your MAML
 
 paper link: [here](https://arxiv.org/pdf/1810.09502)
 
@@ -64,7 +64,7 @@ citation:
 }
 ```
 
-#### Supervising strong learners by amplifying weak experts [`UNREAD`]
+#### Supervising strong learners by amplifying weak experts
 
 paper link: [here](https://arxiv.org/pdf/1810.08575)
 
@@ -80,7 +80,7 @@ citation:
     
     
 
-#### Model-agnostic meta-learning for fast adaptation of deep networks (MAML) [`UNREAD`]
+#### Model-agnostic meta-learning for fast adaptation of deep networks (MAML)
 
 paper link: [here](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf)
 
@@ -97,6 +97,6 @@ citation:
 ```
     
 
-#### Principles of Metalevel Control [`UNREAD`]
+#### Principles of Metalevel Control
 
 book link: [here](https://pan.baidu.com/s/1Vmd2-U_k8q-hN8Ox4ly_3w), with extraction code: `mcuc`

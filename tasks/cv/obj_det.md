@@ -4,7 +4,7 @@
 
 ### Face Detection
 
-#### DSFD: dual shot face detector [`UNREAD`]
+#### DSFD: dual shot face detector
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_DSFD_Dual_Shot_Face_Detector_CVPR_2019_paper.pdf)
 
@@ -19,7 +19,7 @@ citation:
 }
 ```
 
-#### FaceNet: A Unified Embedding for Face Recognition and Clustering (Triplet Loss) [`UNREAD`]
+#### FaceNet: A Unified Embedding for Face Recognition and Clustering (Triplet Loss)
 
 paper link: [here](https://arxiv.org/pdf/1503.03832.pdf)
 
@@ -40,7 +40,7 @@ citation:
 ### FSOD
 
 
-#### Meta faster r-cnn: Towards accurate few-shot object detection with attentive feature alignment [`READ`]
+#### Meta faster r-cnn: Towards accurate few-shot object detection with attentive feature alignment
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/19959/19718)
 
@@ -57,7 +57,7 @@ citation:
 }
 ```
 
-#### Frustratingly simple few-shot object detection [`READ`]
+#### Frustratingly simple few-shot object detection
 
 paper link: [here](https://arxiv.org/pdf/2003.06957)
 
@@ -72,7 +72,7 @@ citation:
 ```
     
 
-#### Meta r-cnn: Towards general solver for instance-level low-shot learning [`READ`]
+#### Meta r-cnn: Towards general solver for instance-level low-shot learning
 
 paper link: [here](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.pdf)
 
@@ -87,7 +87,7 @@ citation:
 }
 ```
     
-#### Meta-learning to detect rare objects [`UNREAD`]
+#### Meta-learning to detect rare objects
 
 paper link: [here](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Meta-Learning_to_Detect_Rare_Objects_ICCV_2019_paper.pdf)
 
@@ -104,7 +104,7 @@ citation:
     
     
 
-#### Few-shot object detection via feature reweighting [`READ`]
+#### Few-shot object detection via feature reweighting
 
 paper link: [here](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.pdf)
 
@@ -124,7 +124,7 @@ citation:
 
 ### 2DOD - Anchor-free
 
-#### Deformable detr: Deformable transformers for end-to-end object detection [`UNREAD`]
+#### Deformable detr: Deformable transformers for end-to-end object detection
 
 paper link: [here](https://arxiv.org/pdf/2010.04159)
 
@@ -138,7 +138,7 @@ citation:
 }
 ```
 
-#### End-to-end object detection with transformers [`UNREAD`]
+#### End-to-end object detection with transformers
 
 paper link: [here](https://arxiv.org/pdf/2005.12872.pdf,)
 
@@ -154,7 +154,7 @@ citation:
 }
 ```
     
-#### Fcos: Fully convolutional one-stage object detection [`READ`]
+#### Fcos: Fully convolutional one-stage object detection
 
 paper link: [here](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tian_FCOS_Fully_Convolutional_One-Stage_Object_Detection_ICCV_2019_paper.pdf)
 
@@ -170,7 +170,7 @@ citation:
 ```
     
 
-#### R-fcn: Object detection via region-based fully convolutional networks [`UNREAD`]
+#### R-fcn: Object detection via region-based fully convolutional networks
 
 paper link: [here](https://proceedings.neurips.cc/paper/2016/file/577ef1154f3240ad5b9b413aa7346a1e-Paper.pdf)
 
@@ -190,7 +190,7 @@ citation:
 ### 2DOD - Anchor-based
 
 
-#### YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [`READ`]
+#### YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.pdf)
 
@@ -205,7 +205,7 @@ citation:
 }
 ```
 
-#### Yolox: Exceeding yolo series in 2021 [`UNREAD`]
+#### Yolox: Exceeding yolo series in 2021
 
 paper link: [here](https://arxiv.org/pdf/2107.08430.pdf,)
 
@@ -221,7 +221,7 @@ citation:
     
 
     
-#### Yolov4: Optimal speed and accuracy of object detection [`READ`]
+#### Yolov4: Optimal speed and accuracy of object detection
 
 paper link: [here](https://arxiv.org/pdf/2004.10934.pdf;)
 
@@ -235,7 +235,7 @@ citation:
 }
 ```
 
-#### PP-YOLO: An effective and efficient implementation of object detector [`UNREAD`]
+#### PP-YOLO: An effective and efficient implementation of object detector
 
 paper link: [here](https://arxiv.org/pdf/2007.12099)
 
@@ -250,7 +250,7 @@ citation:
 ```
 
     
-#### Mask r-cnn [`READ`]
+#### Mask r-cnn
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
 citation: 
@@ -264,7 +264,7 @@ citation:
 }
 ```
 
-#### R-fcn: Object detection via region-based fully convolutional networks [`UNREAD`]
+#### R-fcn: Object detection via region-based fully convolutional networks
 
 paper link: [here](https://proceedings.neurips.cc/paper/2016/file/577ef1154f3240ad5b9b413aa7346a1e-Paper.pdf)
 
@@ -280,7 +280,7 @@ citation:
 ```
     
 
-#### Ssd: Single shot multibox detector [`UNREAD`]
+#### Ssd: Single shot multibox detector
 
 paper link: [here](https://arxiv.org/pdf/1512.02325.pdf%22source%22)
 
@@ -296,7 +296,7 @@ citation:
 }
 ```
     
-#### You only look once: Unified, real-time object detection (YOLO) [`READ`]
+#### You only look once: Unified, real-time object detection (YOLO)
 
 paper link: [here](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 
@@ -313,7 +313,7 @@ citation:
     
     
 
-#### Feature pyramid networks for object detection (FPN) [`READ`]
+#### Feature pyramid networks for object detection (FPN)
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
 
@@ -329,7 +329,7 @@ citation:
 ```
     
 
-#### Faster r-cnn: Towards real-time object detection with region proposal networks [`READ`]
+#### Faster r-cnn: Towards real-time object detection with region proposal networks
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
 
@@ -348,7 +348,7 @@ citation:
 ### 3DOD - Anchor-free
 
 
-#### Leveraging vision-centric multi-modal expertise for 3d object detection [`UNREAD`]
+#### Leveraging vision-centric multi-modal expertise for 3d object detection
 
 paper link: [here](https://arxiv.org/pdf/2310.15670)
 
@@ -364,7 +364,7 @@ citation:
     
 
 
-#### Objects as points (CenterNet) [`UNREAD`]
+#### Objects as points (CenterNet)
 
 paper link: [here](https://arxiv.org/pdf/1904.07850.pdf)
 
@@ -382,7 +382,7 @@ citation:
 ### 3DOD - Anchor-based
 
 
-#### Complex-yolo: An euler-region-proposal for real-time 3d object detection on point clouds [`UNREAD`]
+#### Complex-yolo: An euler-region-proposal for real-time 3d object detection on point clouds
 
 paper link: [here](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Simony_Complex-YOLO_An_Euler-Region-Proposal_for_Real-time_3D_Object_Detection_on_Point_ECCVW_2018_paper.pdf)
 
@@ -402,7 +402,7 @@ citation:
 
 ### Survey
 
-#### Bag of freebies for training object detection neural networks [`READ`]
+#### Bag of freebies for training object detection neural networks
 
 paper link: [here](https://arxiv.org/pdf/1902.04103.pdf%C2%A0eqn%C2%A03)
 

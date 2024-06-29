@@ -3,7 +3,7 @@
 
 
 
-#### Neural-symbolic learning and reasoning: A survey and interpretation [`READ`]
+#### Neural-symbolic learning and reasoning: A survey and interpretation
 
 paper link: [here](https://arxiv.org/pdf/1711.03902)
 
@@ -21,7 +21,7 @@ citation:
 }
 ```
     
-#### Neuro-Symbolic Artificial Intelligence- Current Trends [`READ`]
+#### Neuro-Symbolic Artificial Intelligence- Current Trends
 
 paper link: [here](https://arxiv.org/pdf/2105.05330.pdf)
 
@@ -36,7 +36,7 @@ citation:
 }
 ```
 
-#### Reconciling deep learning with symbolic artificial intelligence: representing objects and relations [`READ`]
+#### Reconciling deep learning with symbolic artificial intelligence: representing objects and relations
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
 

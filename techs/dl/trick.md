@@ -2,7 +2,7 @@
 *Here're some resources about Tricks for Deep Learning*
 
 
-#### Decoupled Weight Decay Regularization [`UNREAD`]
+#### Decoupled Weight Decay Regularization
 
 paper link: [here](https://arxiv.org/pdf/1711.05101)
 
@@ -18,7 +18,7 @@ citation:
 }
 ```
 
-#### On calibration of modern neural networks [`READ`]
+#### On calibration of modern neural networks
 
 paper link: [here](http://proceedings.mlr.press/v70/guo17a/guo17a.pdf)
 
@@ -35,7 +35,7 @@ citation:
 ```
 
 
-#### Categorical reparameterization with gumbel-softmax [`UNREAD`]
+#### Categorical reparameterization with gumbel-softmax
 
 paper link: [here](https://arxiv.org/pdf/1611.01144.pdf)
 
@@ -49,7 +49,7 @@ citation:
 }
 ```
 
-#### Training deep nets with sublinear memory cost [`UNREAD`]
+#### Training deep nets with sublinear memory cost
 
 paper link: [here](https://arxiv.org/pdf/1604.06174)
 
@@ -64,7 +64,7 @@ citation:
 ```
 
 
-#### Batch normalization: Accelerating deep network training by reducing internal covariate shift [`UNREAD`]
+#### Batch normalization: Accelerating deep network training by reducing internal covariate shift
 
 paper link: [here](http://proceedings.mlr.press/v37/ioffe15.pdf)
 
@@ -81,7 +81,7 @@ citation:
 ```
 
     
-#### Dropout: a simple way to prevent neural networks from overfitting [`UNREAD`]
+#### Dropout: a simple way to prevent neural networks from overfitting
 
 paper link: [here](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,)
 

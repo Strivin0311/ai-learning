@@ -3,7 +3,7 @@
 
 
 
-#### Graph representations for higher-order logic and theorem proving [`UNREAD`]
+#### Graph representations for higher-order logic and theorem proving
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/view/5689/5545)
 
@@ -21,7 +21,7 @@ citation:
 ```
     
 
-#### Learning to prove theorems via interacting with proof assistants [`UNREAD`]
+#### Learning to prove theorems via interacting with proof assistants
 
 paper link: [here](http://proceedings.mlr.press/v97/yang19a/yang19a.pdf)
 
@@ -38,7 +38,7 @@ citation:
 ```
     
 
-#### Learning to reason in large theories without imitation [`UNREAD`]
+#### Learning to reason in large theories without imitation
 
 paper link: [here](https://arxiv.org/pdf/1905.10501)
 
@@ -54,7 +54,7 @@ citation:
     
 
 
-#### Holist: An environment for machine learning of higher order logic theorem proving [`UNREAD`]
+#### Holist: An environment for machine learning of higher order logic theorem proving
 
 paper link: [here](http://proceedings.mlr.press/v97/bansal19a/bansal19a.pdf)
 
@@ -71,7 +71,7 @@ citation:
 ```
 
 
-#### Reinforcement learning of theorem proving [`UNREAD`]
+#### Reinforcement learning of theorem proving
 
 paper link: [here](https://proceedings.neurips.cc/paper/2018/file/55acf8539596d25624059980986aaa78-Paper.pdf)
 
@@ -88,7 +88,7 @@ citation:
     
     
 
-#### Premise selection for theorem proving by deep graph embedding [`UNREAD`]
+#### Premise selection for theorem proving by deep graph embedding
 
 paper link: [here](https://proceedings.neurips.cc/paper/2017/file/18d10dc6e666eab6de9215ae5b3d54df-Paper.pdf)
 
@@ -105,7 +105,7 @@ citation:
     
 
 
-#### End-to-end differentiable proving [`UNREAD`]
+#### End-to-end differentiable proving
 
 paper link: [here](https://proceedings.neurips.cc/paper/2017/file/b2ab001909a8a6f04b51920306046ce5-Paper.pdf)
 
@@ -122,7 +122,7 @@ citation:
     
 
 
-#### Deep network guided proof search [`UNREAD`]
+#### Deep network guided proof search
 
 paper link: [here](https://arxiv.org/pdf/1701.06972.pdf?fbclid=IwAR057yHH3-XCpdQTERIA1tTsEMFEYK4aF8R8bodUq8xpr-LNOaW-lXOsYt8)
 
@@ -137,7 +137,7 @@ citation:
 ```
     
 
-#### Deepmath-deep sequence models for premise selection [`UNREAD`]
+#### Deepmath-deep sequence models for premise selection
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2016/file/f197002b9a0853eca5e046d9ca4663d5-Paper.pdf)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Data Security*
 
 
-#### Dataperf: Benchmarks for data-centric ai development [`UNREAD`]
+#### Dataperf: Benchmarks for data-centric ai development
 
 paper link: [here](https://arxiv.org/pdf/2207.10062)
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### Threats to Federated Learning: A Survey [`UNREAD`]
+#### Threats to Federated Learning: A Survey
 paper link: [here](https://arxiv.org/pdf/2003.02133)
 
 citation: 
@@ -31,7 +31,7 @@ citation:
 }
 ```
 
-#### Differential Privacy Has Disparate Impact on Model Accuracy [`UNREAD`]
+#### Differential Privacy Has Disparate Impact on Model Accuracy
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/fc0de4e0396fff257ea362983c2dda5a-Paper.pdf)
 
 citation: 
@@ -45,7 +45,7 @@ citation:
 }
 ```
 
-#### A systematic literature review of individuals’ perspectives on broad consent and data sharing in the United States [`READ`]
+#### A systematic literature review of individuals’ perspectives on broad consent and data sharing in the United States
 paper link: [here](https://www.nature.com/articles/gim2015138)
 
 citation: 

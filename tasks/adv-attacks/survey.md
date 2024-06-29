@@ -2,7 +2,7 @@
 *Here're some resources about Survey for Adversarial Attacks*
 
 
-#### Threat of adversarial attacks on deep learning in computer vision: A survey [`READ`]
+#### Threat of adversarial attacks on deep learning in computer vision: A survey
 
 paper link: [here](https://ieeexplore.ieee.org/iel7/6287639/6514899/08294186.pdf)
 
@@ -20,7 +20,7 @@ citation:
 ```
     
 
-#### Adversarial attacks and defences competition [`READ`]
+#### Adversarial attacks and defences competition
 
 paper link: [here](https://arxiv.org/pdf/1804.00097.pdf)
 

@@ -2,7 +2,7 @@
 *Here're some resources about White-Box Adversarial Attacks*
 
 
-#### Robust superpixel-guided attentional adversarial attack [`UNREAD`]
+#### Robust superpixel-guided attentional adversarial attack
 
 paper link: [here](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Robust_Superpixel-Guided_Attentional_Adversarial_Attack_CVPR_2020_paper.pdf)
 
@@ -17,7 +17,7 @@ citation:
 }
 ```
     
-#### Nesterov accelerated gradient and scale invariance for adversarial attacks [`UNREAD`]
+#### Nesterov accelerated gradient and scale invariance for adversarial attacks
 
 paper link: [here](https://arxiv.org/pdf/1908.06281)
 
@@ -32,7 +32,7 @@ citation:
 ```
 
 
-#### Shapeshifter: Robust physical adversarial attack on faster r-cnn object detector [`READ`]
+#### Shapeshifter: Robust physical adversarial attack on faster r-cnn object detector
 
 paper link: [here](https://arxiv.org/pdf/1804.05810)
 
@@ -50,7 +50,7 @@ citation:
 
 
 
-#### Perceptual-sensitive gan for generating adversarial patches (PSGAN) [`READ`]
+#### Perceptual-sensitive gan for generating adversarial patches (PSGAN)
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/view/3893/3771)
 
@@ -67,7 +67,7 @@ citation:
 }
 ```
 
-#### Trust region based adversarial attack on neural networks [`UNREAD`]
+#### Trust region based adversarial attack on neural networks
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Trust_Region_Based_Adversarial_Attack_on_Neural_Networks_CVPR_2019_paper.pdf)
 
@@ -83,7 +83,7 @@ citation:
 ```
     
     
-#### Robust physical-world attacks on deep learning visual classification (RP2) [`READ`]
+#### Robust physical-world attacks on deep learning visual classification (RP2)
 
 paper link: [here](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)
 
@@ -99,7 +99,7 @@ citation:
 ```
     
 
-#### Generating adversarial examples with adversarial networks (AdvGANs) [`READ`]
+#### Generating adversarial examples with adversarial networks (AdvGANs)
 
 paper link: [here](https://arxiv.org/pdf/1801.02610)
 
@@ -113,7 +113,7 @@ citation:
 }
 ```
 
-#### Synthesizing robust adversarial examples (EOT) [`READ`]
+#### Synthesizing robust adversarial examples (EOT)
 
 paper link: [here](http://proceedings.mlr.press/v80/athalye18b/athalye18b.pdf)
 
@@ -129,7 +129,7 @@ citation:
 }
 ```
     
-#### Universal adversarial perturbations [`READ`]
+#### Universal adversarial perturbations
 
 paper link: [here](http://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.pdf)
 
@@ -146,7 +146,7 @@ citation:
     
     
 
-#### Adversarial transformation networks: Learning to generate adversarial examples (ATNs) [`READ`]
+#### Adversarial transformation networks: Learning to generate adversarial examples (ATNs)
 
 paper link: [here](https://arxiv.org/pdf/1703.09387.pdf)
 
@@ -160,7 +160,7 @@ citation:
 }
 ```
 
-#### Adversarial patch [`READ`]
+#### Adversarial patch
 
 paper link: [here](https://arxiv.org/pdf/1712.09665.pdf)
 
@@ -175,7 +175,7 @@ citation:
 ```
     
 
-#### Towards evaluating the robustness of neural networks (C&W) [`READ`]
+#### Towards evaluating the robustness of neural networks (C&W)
 
 paper link: [here](https://arxiv.org/pdf/1608.04644.pdf?source=post_page)
 
@@ -193,7 +193,7 @@ citation:
 }
 ```
 
-#### Towards deep learning models resistant to adversarial attacks (PGD) [`READ`]
+#### Towards deep learning models resistant to adversarial attacks (PGD)
 
 paper link: [here](https://arxiv.org/pdf/1706.06083.pdf)
 
@@ -208,7 +208,7 @@ citation:
 ```
     
 
-#### Adversarial examples in the physical world (BIM / LLCM) [`READ`]
+#### Adversarial examples in the physical world (BIM / LLCM)
 paper link: [here](https://arxiv.org/pdf/1607.02533.pdf?utm_sourcesciontist.com&utm_mediumrefer&utm_campaignpromote)
 
 citation: 
@@ -220,7 +220,7 @@ citation:
 }
 ```    
 
-#### Adversarial machine learning at scale [`READ`]
+#### Adversarial machine learning at scale
 
 paper link: [here](https://arxiv.org/pdf/1611.01236)
 
@@ -236,7 +236,7 @@ citation:
     
 
 
-#### Deepfool: a simple and accurate method to fool deep neural networks [`READ`]
+#### Deepfool: a simple and accurate method to fool deep neural networks
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)
 
@@ -251,7 +251,7 @@ citation:
 }
 ```
 
-#### The limitations of deep learning in adversarial settings (JSMA) [`READ`]
+#### The limitations of deep learning in adversarial settings (JSMA)
 
 paper link: [here](https://arxiv.org/pdf/1511.07528.pdf&xid=25657,15700023,15700124,15700149,15700186,15700191,15700201,15700237,15700242)
 
@@ -268,7 +268,7 @@ citation:
 ```
     
 
-#### Explaining and harnessing adversarial examples (FGSM) [`READ`]
+#### Explaining and harnessing adversarial examples (FGSM)
 
 paper link: [here](https://arxiv.org/pdf/1412.6572.pdf)
 

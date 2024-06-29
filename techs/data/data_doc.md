@@ -2,7 +2,7 @@
 *Here're some resources about Data Documentation*
 
 
-#### Croissant [`UNREAD`]
+#### Croissant
 
 github link: [here](https://github.com/mlcommons/croissant)
 
@@ -21,7 +21,7 @@ citation:
 }
 ```
 
-#### The Dataset Nutrition Label- A Framework To Drive Higher Data Quality Standards [`READ`]
+#### The Dataset Nutrition Label- A Framework To Drive Higher Data Quality Standards
 paper link: [here](https://arxiv.org/pdf/1805.03677.pdf)
 
 citation: 
@@ -37,7 +37,7 @@ citation:
 }
 ```
 
-#### Datasheets for Datasets [`READ`]
+#### Datasheets for Datasets
 paper link: [here](https://arxiv.org/pdf/1803.09010.pdf)
 
 citation: 
@@ -54,7 +54,7 @@ citation:
 }
 ```
 
-#### Model Cards for Model Reporting [`UNREAD`]
+#### Model Cards for Model Reporting
 paper link: [here](https://arxiv.org/pdf/1810.03993.pdf):)
 
 citation: 
@@ -69,7 +69,7 @@ citation:
 ```
 
 
-#### Data Statements for Natural Language Processing- Toward Mitigating System Bias and Enabling Better Science [`READ`]
+#### Data Statements for Natural Language Processing- Toward Mitigating System Bias and Enabling Better Science
 paper link: [here](https://watermark.silverchair.com/tacl_a_00041.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0kwggNFBgkqhkiG9w0BBwagggM2MIIDMgIBADCCAysGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMLYHSX699J6aa2s5tAgEQgIIC_Krh_9qItXiv_wMFyujXh3-zwjLqPqrHQlbDMGF6DGqwBYo2OtfYZItvDNsdyYJJ5O6-NdB-J6sJ1FgiMOmkczKKy17OgS3MKtpx7oXMkT13_7fT7qQk6gcs3EUyaSYrJXAfWv4MqFMjT_wwYiPdoYwAajlFwNx1frSYOQJRwu9vr9sSw2c1ETRJri5o_69bazViM2xtVdBfO15UhcG4Hn1zPU5tgmNN3B8WJuVSRVIh-TA31QHChWQzX0sqnCdwkLGvNLop0mrjFwd71Wax3nWncN0aV2pEbJq1RMDStSpBXcXDZ9w0uSTpeoDecvolTd4LEw4v_DjGvpP3KOeuTcyYxy_emyl4eN-AhHMVeGbmZAlHnRhwRSYqBGi1fPX-Jr9oM52YT4sjWUo3i79MwQ-CYnDC88XvYZsRXtAUbsRMkQMjKgjVVRH7m2yOLAlTdyzPEFNV92mWO-OUr0AuThcFflbA19kHU2CnD0gVnoH3a4OlBu_FMmjBKWSOS1tP0QOMC-Eq5Y37egNHjQiGseW7b5_tGmjHHWXesFJTGh_xngEz_Ag_rh0H5MvzyD_3emv2DxHr8jaJ5sYGIO14f3bLDBgRhBlRkimVRy65Xb1w_p0unpYT8TOlcNFBBBNO2zf665qRCCF30h7OgrBgJxjXepbVbK9NYxM7XYOr__YuoQ1AEIS11zLQaKfyEYsKmeVMHyNMJbG_91aubChNOycevHIaIGpnqMQtfHZno9Jm7W-1_9HtVAuUM-f1f1l_ad0ph5gfLLD0Tq8zYQvBl3pAu0u-Uotc7zwtOLaiGgQN2B-CW4OKQP3j03R9se_nq72nKHIzBvw2Og5B7RrwCJPsXAAjGwVmv8XOMnfeZd6TPlueGHZ91dlo6Ne6LUg7fXTGJkYmbsQ0ITSmA1t61UR3FmkoMbIMXQJauafIPXW8L_mrEB9RYxraYBdare5AEr5s67uLRzDhwT3Ks2JIOYyIS1tHybcZC2y8UK2BhGdv5r9N5lUYGsfq6nbq)
 
 citation: 
@@ -85,7 +85,7 @@ citation:
 }
 ```
 
-#### Documenting Computer Vision Datasets- An Invitation to Reflexive Data Practices [`READ`]
+#### Documenting Computer Vision Datasets- An Invitation to Reflexive Data Practices
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3442188.3445880)
 
 citation: 

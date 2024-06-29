@@ -4,7 +4,7 @@
 
 ## Gaussian Splatting
 
-#### Dreamgaussian: Generative gaussian splatting for efficient 3d content creation [`UNREAD`]
+#### Dreamgaussian: Generative gaussian splatting for efficient 3d content creation
 
 paper link: [here](https://arxiv.org/pdf/2309.16653)
 
@@ -19,7 +19,7 @@ citation:
 ```
     
 
-#### Text-to-3D using Gaussian Splatting [`UNREAD`]
+#### Text-to-3D using Gaussian Splatting
 
 paper link: [here](https://arxiv.org/pdf/2309.16585)
 
@@ -39,7 +39,7 @@ citation:
 
 ### Methods
 
-#### DaRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation [`UNREAD`]
+#### DaRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation
 
 paper link: [here](https://arxiv.org/pdf/2305.19201.pdf)
 
@@ -59,7 +59,7 @@ citation:
 ### Survey
 
 
-#### Nerf: Neural radiance field in 3d vision, a comprehensive review [`UNREAD`]
+#### Nerf: Neural radiance field in 3d vision, a comprehensive review
 
 paper link: [here](https://arxiv.org/pdf/2210.00379)
 

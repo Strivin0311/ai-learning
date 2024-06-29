@@ -2,7 +2,7 @@
 *Here're some resources about Data Cleaning*
 
 
-#### Confident Learning: Estimating Uncertainty in Dataset Labels [`UNREAD`]
+#### Confident Learning: Estimating Uncertainty in Dataset Labels
 paper link: [here](https://www.jair.org/index.php/jair/article/download/12125/26676/)
 
 citation: 

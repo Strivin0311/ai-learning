@@ -4,7 +4,7 @@
 
 ## Papers
 
-#### Roulette-wheel selection via stochastic acceptance [`UNREAD`]
+#### Roulette-wheel selection via stochastic acceptance
 
 paper link: [here](https://arxiv.org/pdf/1109.3627)
 
@@ -25,14 +25,14 @@ citation:
 
 ## TextBooks
 
-#### Introduction to Genetic Algorithms [`UNREAD`]
+#### Introduction to Genetic Algorithms
 
 book link: [here](https://pan.baidu.com/s/1-5rfd2c2-9zjbJVVAMnaJQ), with extraction code: `kcnm`
 
 
-#### Essentials of Metaheuristics [`UNREAD`]
+#### Essentials of Metaheuristics
 book link: [here](https://pan.baidu.com/s/1TU86xXOwPgG8nE98I_uudA), with extraction code: `ce8j`
 
 
-#### Computation Intelligence - An Introduction [`UNREAD`]
+#### Computation Intelligence - An Introduction
 book link: [here](https://pan.baidu.com/s/17RO6yhrR9HHg2qKBplEIOA), with extraction code: `nru7`

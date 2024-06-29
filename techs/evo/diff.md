@@ -2,7 +2,7 @@
 *Here're some resources about Differential Evolution*
 
     
-#### Differential evolution- A survey of the state-of-the-art [`UNREAD`]
+#### Differential evolution- A survey of the state-of-the-art
 
 paper link: [here](http://i2pc.es/coss/Docencia/SignalProcessingReviews/Das2011.pdf)
 

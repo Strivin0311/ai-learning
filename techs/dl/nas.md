@@ -2,7 +2,7 @@
 *Here're some resources about Neural Architecture Search*
 
 
-#### EvoPrompting: Language Models for Code-Level Neural Architecture Search [`UNREAD`]
+#### EvoPrompting: Language Models for Code-Level Neural Architecture Search
 
 paper link: [here](https://arxiv.org/pdf/2302.14838)
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### DSNAS- Direct Neural Architecture Search without Parameter Retraining [`READ`]
+#### DSNAS- Direct Neural Architecture Search without Parameter Retraining
 paper link: [here](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_DSNAS_Direct_Neural_Architecture_Search_Without_Parameter_Retraining_CVPR_2020_paper.pdf)
 
 citation: 
@@ -32,7 +32,7 @@ citation:
 }
 ```
 
-#### DARTS- Differentiable Architecture Search [`READ`]
+#### DARTS- Differentiable Architecture Search
 paper link: [here](https://arxiv.org/pdf/1806.09055)
 
 citation: 
@@ -46,7 +46,7 @@ citation:
 ```
 
 
-#### SNAS- Stochastic Neural Architecture Search [`READ`]
+#### SNAS- Stochastic Neural Architecture Search
 paper link: [here](https://arxiv.org/pdf/1812.09926)
 
 citation: 
@@ -59,7 +59,7 @@ citation:
 }
 ```
 
-#### Smash: one-shot model architecture search through hypernetworks [`UNREAD`]
+#### Smash: one-shot model architecture search through hypernetworks
 
 paper link: [here](https://arxiv.org/pdf/1708.05344)
 
@@ -74,7 +74,7 @@ citation:
 ```
     
 
-#### Neural Architecture Search with Reinforcement Learning [`READ`]
+#### Neural Architecture Search with Reinforcement Learning
 paper link: [here](https://arxiv.org/pdf/1611.01578.pdf)
 
 citation: 

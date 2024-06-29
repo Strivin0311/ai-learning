@@ -4,7 +4,7 @@
 ## Paper
 
 
-#### A Stochastic PCA and SVD Algorithm with an Exponential Convergence Rate [`UNREAD`]
+#### A Stochastic PCA and SVD Algorithm with an Exponential Convergence Rate
 
 paper link: [here](http://proceedings.mlr.press/v37/shamir15.pdf)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions [`UNREAD`]
+#### Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions
 
 paper link: [here](https://arxiv.org/pdf/0909.4061.pdf)
 
@@ -40,11 +40,11 @@ citation:
 
 ## Textbook
 
-#### Linear Algebra, Applications Version [`UNREAD`]
+#### Linear Algebra, Applications Version
 book link: [here](https://pan.baidu.com/s/113uqREuYYiDM1ADyEAAE1Q), with extraction code: `8irg`
 
 
-#### 矩阵分析与应用（第2版） [`READ`]
+#### 矩阵分析与应用（第2版）
 author: 张贤达 
 
 book link: [here](https://pan.baidu.com/s/17Yx7-Lhp0ye4YBq4AEHbyw), with extraction code: `7qc6`

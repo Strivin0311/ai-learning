@@ -1,7 +1,7 @@
 # Data Augmentation
 *Here're some resources about Data Augmentation*
 
-#### Unsupervised data augmentation for consistency training [`UNREAD`]
+#### Unsupervised data augmentation for consistency training
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/44feb0096faa8326192570788b38c1d1-Paper.pdf)
 
 citation: 
@@ -17,7 +17,7 @@ citation:
 ```
 
 
-#### RandAugment- Practical automated data augmentation with a reduced search space [`UNREAD`]
+#### RandAugment- Practical automated data augmentation with a reduced search space
 paper link: [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.pdf)
 
 citation: 
@@ -32,7 +32,7 @@ citation:
 ```
 
 
-#### A survey on Image Data Augmentation for Deep Learning [`READ`]
+#### A survey on Image Data Augmentation for Deep Learning
 paper link: [here](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0.pdf)
 
 citation: 
@@ -50,7 +50,7 @@ citation:
 ```
 
 
-#### Mixup- Beyond Empirical Risk Minimization [`UNREAD`]
+#### Mixup- Beyond Empirical Risk Minimization
 paper link: [here](https://arxiv.org/pdf/1710.09412.pdf%C2%A0)
 
 citation: 

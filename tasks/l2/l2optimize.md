@@ -2,7 +2,7 @@
 *Here're some resources about Learning to Optimize*
 
 
-#### Machine learning for combinatorial optimization: a methodological tour d'horizon [`READ`]
+#### Machine learning for combinatorial optimization: a methodological tour d'horizon
 
 paper link: [here](https://arxiv.org/pdf/1811.06128)
 
@@ -22,7 +22,7 @@ citation:
     
 
 
-#### A gradient-guided evolutionary approach to training deep neural networks [`UNREAD`]
+#### A gradient-guided evolutionary approach to training deep neural networks
 
 paper link: [here](https://openresearch.surrey.ac.uk/esploro/fulltext/journalArticle/A-Gradient-Guided-Evolutionary-Approach-to-Training/99548521502346?repId=12147929210002346&mId=13147929200002346&institution=44SUR_INST)
 
@@ -41,7 +41,7 @@ citation:
 ```
     
 
-#### Direct policy gradients: Direct optimization of policies in discrete action spaces [`UNREAD`]
+#### Direct policy gradients: Direct optimization of policies in discrete action spaces
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/d1e7b08bdb7783ed4fb10abe92c22ffd-Paper.pdf)
 
@@ -58,7 +58,7 @@ citation:
 ```
 
 
-#### Direct Optimization through for Discrete Variational Auto-Encoder [`UNREAD`]
+#### Direct Optimization through for Discrete Variational Auto-Encoder
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/1a04f965818a8533f5613003c7db243d-Paper.pdf)
 
@@ -75,7 +75,7 @@ citation:
     
 
 
-#### Amortized bethe free energy minimization for learning mrfs [`UNREAD`]
+#### Amortized bethe free energy minimization for learning mrfs
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/dc554706afe4c72a60a25314cbaece80-Paper.pdf)
 
@@ -90,7 +90,7 @@ citation:
 }
 ```
 
-#### Stochastic beams and where to find them: The gumbel-top-k trick for sampling sequences without replacement [`UNREAD`]
+#### Stochastic beams and where to find them: The gumbel-top-k trick for sampling sequences without replacement
 
 paper link: [here](http://proceedings.mlr.press/v97/kool19a/kool19a.pdf)
 
@@ -106,7 +106,7 @@ citation:
 }
 ```
 
-#### Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions [`UNREAD`]
+#### Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions
 
 paper link: [here](https://arxiv.org/pdf/1903.03088)
 
@@ -123,7 +123,7 @@ citation:
     
     
     
-#### Evolution strategies as a scalable alternative to reinforcement learning [`UNREAD`]
+#### Evolution strategies as a scalable alternative to reinforcement learning
 
 paper link: [here](https://arxiv.org/pdf/1703.03864.pdf)
 
@@ -138,7 +138,7 @@ citation:
 ```
     
 
-#### Efficient nonmyopic active search [`UNREAD`]
+#### Efficient nonmyopic active search
 
 paper link: [here](http://proceedings.mlr.press/v70/jiang17d/jiang17d.pdf)
 
@@ -154,7 +154,7 @@ citation:
 }
 ```
 
-#### Learning to optimize neural nets [`UNREAD`]
+#### Learning to optimize neural nets
 
 paper link: [here](https://arxiv.org/pdf/1703.00441)
 
@@ -168,7 +168,7 @@ citation:
 }
 ```
     
-#### Learning to optimize [`UNREAD`]
+#### Learning to optimize
 
 paper link: [here](https://arxiv.org/pdf/1606.01885)
 
@@ -183,7 +183,7 @@ citation:
 ```
     
 
-#### Learning to learn by gradient descent by gradient descent [`UNREAD`]
+#### Learning to learn by gradient descent by gradient descent
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2016/file/fb87582825f9d28a8d42c5e5e5e8b23d-Paper.pdf)
 
@@ -201,7 +201,7 @@ citation:
     
 
 
-#### Vime: Variational information maximizing exploration [`UNREAD`]
+#### Vime: Variational information maximizing exploration
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2016/file/abd815286ba1007abfbb8415b83ae2cf-Paper.pdf)
 
@@ -216,7 +216,7 @@ citation:
 }
 ```
 
-#### Sequence-to-sequence learning as beam-search optimization [`UNREAD`]
+#### Sequence-to-sequence learning as beam-search optimization
 
 paper link: [here](https://arxiv.org/pdf/1606.02960)
 
@@ -230,7 +230,7 @@ citation:
 }
 ```
 
-#### Gradient-based hyperparameter optimization through reversible learning [`UNREAD`]
+#### Gradient-based hyperparameter optimization through reversible learning
 
 paper link: [here](http://proceedings.mlr.press/v37/maclaurin15.pdf)
 
@@ -247,7 +247,7 @@ citation:
 ```
     
 
-#### Generic methods for optimization-based modeling [`UNREAD`]
+#### Generic methods for optimization-based modeling
 
 paper link: [here](http://proceedings.mlr.press/v22/domke12/domke12.pdf)
 
@@ -266,7 +266,7 @@ citation:
     
     
 
-#### Planning to be surprised: Optimal bayesian exploration in dynamic environments [`UNREAD`]
+#### Planning to be surprised: Optimal bayesian exploration in dynamic environments
 
 paper link: [here](https://arxiv.org/pdf/1103.5708)
 

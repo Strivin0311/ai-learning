@@ -2,7 +2,7 @@
 *Here're some resources about AI for Science*
 
 
-#### Faster sorting algorithms discovered using deep reinforcement learning [`UNREAD`]
+#### Faster sorting algorithms discovered using deep reinforcement learning
 paper link: [here](https://www.nature.com/articles/s41586-023-06004-9)
 
 citation: 
@@ -20,7 +20,7 @@ citation:
 ```
 
 
-#### Discovering faster matrix multiplication algorithms with reinforcement learning [`UNREAD`]
+#### Discovering faster matrix multiplication algorithms with reinforcement learning
 paper link: [here](https://www.nature.com/articles/s41586-022%20-05172-4)
 
 citation: 
@@ -37,7 +37,7 @@ citation:
 }
 ```
 
-#### Highly accurate protein structure prediction with AlphaFold [`UNREAD`]
+#### Highly accurate protein structure prediction with AlphaFold
 paper link: [here](https://www.nature.com/articles/s41586-021-03819-2)
 
 citation: 

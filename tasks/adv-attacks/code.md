@@ -2,7 +2,7 @@
 *Here're some resources about Adversarial Attacks for Code*
 
 
-#### Natural Attack for Pre-trained Models of Code [`READ`]
+#### Natural Attack for Pre-trained Models of Code
 
 paper link: [here](https://arxiv.org/pdf/2201.08698)
 
@@ -17,7 +17,7 @@ citation:
 }
 ```
 
-#### You autocomplete me- Poisoning vulnerabilities in neural code completion [`READ`]
+#### You autocomplete me- Poisoning vulnerabilities in neural code completion
 
 paper link: [here](https://www.usenix.org/system/files/sec21-schuster.pdf)
 
@@ -34,7 +34,7 @@ citation:
 
     
 
-#### Generating Adversarial Computer Programs using Optimized Obfuscations [`READ`]
+#### Generating Adversarial Computer Programs using Optimized Obfuscations
 
 paper link: [here](https://arxiv.org/pdf/2103.11882)
 
@@ -49,7 +49,7 @@ citation:
 ```
 
 
-#### Adversarial Robustness for Code [`READ`]
+#### Adversarial Robustness for Code
 
 paper link: [here](http://proceedings.mlr.press/v119/bielik20a/bielik20a.pdf)
 
@@ -65,7 +65,7 @@ citation:
 }
 ```
 
-#### Adversarial Examples for Models of Code [`READ`]
+#### Adversarial Examples for Models of Code
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3428230)
 

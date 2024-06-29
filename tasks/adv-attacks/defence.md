@@ -3,7 +3,7 @@
 
 
 
-#### Certified Adversarial Robustness via Randomized Smoothing [`READ`]
+#### Certified Adversarial Robustness via Randomized Smoothing
 
 paper link: [here](http://proceedings.mlr.press/v97/cohen19c/cohen19c.pdf)
 
@@ -21,7 +21,7 @@ citation:
 
 
 
-#### Adversarial Training and Robustness for Multiple Perturbations [`READ`]
+#### Adversarial Training and Robustness for Multiple Perturbations
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/5d4ae76f053f8f2516ad12961ef7fe97-Paper.pdf)
 
@@ -36,7 +36,7 @@ citation:
 }
 ```
 
-#### Obfuscated gradients give a false sense of security: Circumventing defenses to adversarial examples [`UNREAD`]
+#### Obfuscated gradients give a false sense of security: Circumventing defenses to adversarial examples
 
 paper link: [here](http://proceedings.mlr.press/v80/athalye18a/athalye18a.pdf)
 
@@ -52,7 +52,7 @@ citation:
 }
 ```
     
-#### Provable defenses against adversarial examples via the convex outer adversarial polytope [`UNREAD`]
+#### Provable defenses against adversarial examples via the convex outer adversarial polytope
 
 paper link: [here](http://proceedings.mlr.press/v80/wong18a/wong18a.pdf)
 
@@ -69,7 +69,7 @@ citation:
 ```
     
 
-#### Ensemble adversarial training: Attacks and defenses [`UNREAD`]
+#### Ensemble adversarial training: Attacks and defenses
 
 paper link: [here](https://arxiv.org/pdf/1705.07204.pdf)
 
@@ -84,7 +84,7 @@ citation:
 ```
     
 
-#### Detecting Adversarial Samples from Artifacts [`READ`]
+#### Detecting Adversarial Samples from Artifacts
 
 paper link: [here](https://arxiv.org/pdf/1703.00410)
 
@@ -99,7 +99,7 @@ citation:
 ```
     
 
-#### Distillation as a defense to adversarial perturbations against deep neural networks [`READ`]
+#### Distillation as a defense to adversarial perturbations against deep neural networks
 
 paper link: [here](https://arxiv.org/pdf/1511.04508.pdf&xid=25657,15700023,15700124,15700149,15700186,15700191,15700201,15700237,15700242)
 

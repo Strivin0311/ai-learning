@@ -3,7 +3,7 @@
 
 
 
-#### Deep reasoning networks: Thinking fast and slow [`READ`]
+#### Deep reasoning networks: Thinking fast and slow
 
 paper link: [here](https://arxiv.org/pdf/1906.00855)
 
@@ -17,7 +17,7 @@ citation:
 }
 ```
 
-#### Probabilistic neural symbolic models for interpretable visual question answering [`UNREAD`]
+#### Probabilistic neural symbolic models for interpretable visual question answering
 
 paper link: [here](http://proceedings.mlr.press/v97/vedantam19a/vedantam19a.pdf)
 
@@ -34,7 +34,7 @@ citation:
 ```
 
 
-#### Neural-symbolic vqa: Disentangling reasoning from vision and language understanding [`UNREAD`]
+#### Neural-symbolic vqa: Disentangling reasoning from vision and language understanding
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf)
 
@@ -49,7 +49,7 @@ citation:
 }
 ```
     
-#### Reasoning with neural tensor networks for knowledge base completion [`UNREAD`]
+#### Reasoning with neural tensor networks for knowledge base completion
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)
 
@@ -64,6 +64,6 @@ citation:
 }
 ```
     
-#### Neural-Symbolic Cognitive Reasoning [`UNREAD`]
+#### Neural-Symbolic Cognitive Reasoning
 book link: [here](https://pan.baidu.com/s/1Pf-wvufT26EF78n4glXFFQ), with extraction code: `5rmx`
 

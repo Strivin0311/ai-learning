@@ -2,7 +2,7 @@
 *Here're some resources about Text Generation*
 
 
-#### A contrastive framework for neural text generation [`UNREAD`]
+#### A contrastive framework for neural text generation
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/871cae8f599cb8bbfcb0f58fe1af95ad-Paper-Conference.pdf)
 
@@ -20,7 +20,7 @@ citation:
     
 
 
-#### Maskgan: better text generation via filling in the _ [`UNREAD`]
+#### Maskgan: better text generation via filling in the _
 
 paper link: [here](https://arxiv.org/pdf/1801.07736.pdf)
 
@@ -35,7 +35,7 @@ citation:
 ```
     
 
-#### Seqgan: Sequence generative adversarial nets with policy gradient [`UNREAD`]
+#### Seqgan: Sequence generative adversarial nets with policy gradient
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/view/10804/10663)
 

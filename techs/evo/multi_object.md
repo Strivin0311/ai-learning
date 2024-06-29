@@ -4,7 +4,7 @@
 ## Papers
 
 
-#### Solving large-scale multiobjective optimization problems with sparse optimal solutions via unsupervised neural networks [`UNREAD`]
+#### Solving large-scale multiobjective optimization problems with sparse optimal solutions via unsupervised neural networks
 
 paper link: [here](https://openresearch.surrey.ac.uk/esploro/fulltext/journalArticle/Solving-Large-Scale-Multi-Objective-Optimization-Problems-with/99513286502346?repId=12139084900002346&mId=13140378470002346&institution=44SUR_INST)
 
@@ -22,7 +22,7 @@ citation:
 }
 ```
 
-#### An evolutionary algorithm for large-scale sparse multiobjective optimization problems [`UNREAD`]
+#### An evolutionary algorithm for large-scale sparse multiobjective optimization problems
 
 paper link: [here](https://openresearch.surrey.ac.uk/esploro/fulltext/journalArticle/An-Evolutionary-Algorithm-for-Large-Scale-Sparse/99515481102346?repId=12139776710002346&mId=13140562420002346&institution=44SUR_INST)
 
@@ -43,7 +43,7 @@ citation:
 
 
 
-#### Multiobjective evolutionary algorithms- A survey of the state of the art [`UNREAD`]
+#### Multiobjective evolutionary algorithms- A survey of the state of the art
 
 paper link: [here](http://i2pc.es/coss/Docencia/SignalProcessingReviews/Zhou2011.pdf)
 
@@ -61,7 +61,7 @@ citation:
 }
 ```
 
-#### A Fast and Elitist Multiobjective Genetic Algorithm- NSGA-II [`UNREAD`]
+#### A Fast and Elitist Multiobjective Genetic Algorithm- NSGA-II
 
 paper link: [here](https://web.njit.edu/~horacio/Math451H/download/2002-6-2-DEB-NSGA-II.pdf)
 
@@ -84,7 +84,7 @@ citation:
 
 ## TextBooks
 
-#### Evolutionary algorithms for solving multi-objective problems [`UNREAD`]
+#### Evolutionary algorithms for solving multi-objective problems
 
 book link: [here](https://pan.baidu.com/s/1nXw8G1zFeuMsf-sLs0AAqw), with extraction code: `h9xp`
 

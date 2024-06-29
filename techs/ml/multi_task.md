@@ -3,7 +3,7 @@
 
 
 
-#### Multi-task learning with deep neural networks- A survey [`UNREAD`]
+#### Multi-task learning with deep neural networks- A survey
 paper link: [here](https://arxiv.org/pdf/2009.09796)
 
 citation: 

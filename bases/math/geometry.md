@@ -2,12 +2,12 @@
 *Here're some resources about Geometry*
 
 
-#### Multiple View Geometry in Computer Vision (2nd Edition) [`UNREAD`]
+#### Multiple View Geometry in Computer Vision (2nd Edition)
 
 book link: [here](https://pan.baidu.com/s/1_UoIx1nBU_S1HZiSLoLqZQ), with extraction code: `q78d`
 
 
-#### Geometric Algebra [`READ`]
+#### Geometric Algebra
 
 paper link: [here](https://arxiv.org/pdf/1205.5935v1.pdf)
 

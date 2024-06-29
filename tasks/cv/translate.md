@@ -3,7 +3,7 @@
 
 
 
-#### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing [`UNREAD`]
+#### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 
 paper link: [here](https://arxiv.org/pdf/2308.07926)
 

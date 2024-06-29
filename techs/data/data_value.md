@@ -2,7 +2,7 @@
 *Here're some resources about Data Valuation*
 
 
-#### Data Shapley- Equitable Valuation of Data for Machine Learning [`READ`]
+#### Data Shapley- Equitable Valuation of Data for Machine Learning
 paper link: [here](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf)
 
 citation: 
@@ -17,7 +17,7 @@ citation:
 }
 ```
 
-#### Towards Efficient Data Valuation Based on the Shapley Value [`READ`]
+#### Towards Efficient Data Valuation Based on the Shapley Value
 paper link: [here](http://proceedings.mlr.press/v89/jia19a/jia19a.pdf)
 
 citation: 

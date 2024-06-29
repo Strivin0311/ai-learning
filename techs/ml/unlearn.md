@@ -2,7 +2,7 @@
 *Here're some resources about Machine Unlearning*
 
 
-#### Large Language Model Unlearning [`UNREAD`]
+#### Large Language Model Unlearning
 
 paper link: [here](https://arxiv.org/pdf/2310.10683.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### Towards Unbounded Machine Unlearning [`UNREAD`]
+#### Towards Unbounded Machine Unlearning
 
 paper link: [here](https://arxiv.org/pdf/2302.09880)
 
@@ -37,7 +37,7 @@ citation:
 ### Survey
 
 
-#### Machine unlearning: A survey [`UNREAD`]
+#### Machine unlearning: A survey
 
 paper link: [here](https://arxiv.org/pdf/2306.03558)
 
@@ -58,7 +58,7 @@ citation:
 
 
 
-#### A survey of machine unlearning [`UNREAD`]
+#### A survey of machine unlearning
 
 paper link: [here](https://arxiv.org/pdf/2209.02299)
 
@@ -73,7 +73,7 @@ citation:
 ```
     
 
-#### Machine unlearning [`UNREAD`]
+#### Machine unlearning
 
 paper link: [here](https://arxiv.org/pdf/1912.03817)
 

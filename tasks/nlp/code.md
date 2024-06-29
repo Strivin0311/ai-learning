@@ -10,7 +10,7 @@
 
 ### Bug Fixing
 
-#### Tfix- Learning to fix coding errors with a text-to-text transformer [`READ`]
+#### Tfix- Learning to fix coding errors with a text-to-text transformer
 
 paper link: [here](http://proceedings.mlr.press/v139/berabi21a/berabi21a.pdf)
 
@@ -30,7 +30,7 @@ citation:
 
 ### Adversarial Attack for Code
 
-#### Natural Attack for Pre-trained Models of Code [`READ`]
+#### Natural Attack for Pre-trained Models of Code
 
 paper link: [here](https://arxiv.org/pdf/2201.08698)
 
@@ -45,7 +45,7 @@ citation:
 }
 ```
 
-#### You autocomplete me- Poisoning vulnerabilities in neural code completion [`READ`]
+#### You autocomplete me- Poisoning vulnerabilities in neural code completion
 
 paper link: [here](https://www.usenix.org/system/files/sec21-schuster.pdf)
 
@@ -62,7 +62,7 @@ citation:
 
     
 
-#### Generating Adversarial Computer Programs using Optimized Obfuscations [`READ`]
+#### Generating Adversarial Computer Programs using Optimized Obfuscations
 
 paper link: [here](https://arxiv.org/pdf/2103.11882)
 
@@ -77,7 +77,7 @@ citation:
 ```
 
 
-#### Adversarial Robustness for Code [`READ`]
+#### Adversarial Robustness for Code
 
 paper link: [here](http://proceedings.mlr.press/v119/bielik20a/bielik20a.pdf)
 
@@ -93,7 +93,7 @@ citation:
 }
 ```
 
-#### Adversarial Examples for Models of Code [`READ`]
+#### Adversarial Examples for Models of Code
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3428230)
 
@@ -113,7 +113,7 @@ citation:
 
 ### Type Inference
 
-#### LambdaNet- Probabilistic Type Inference Using Graph Neural Networks [`READ`]
+#### LambdaNet- Probabilistic Type Inference Using Graph Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/2005.02161)
 
@@ -127,7 +127,7 @@ citation:
 }
 ```
     
-#### Type4Py- Practical Deep Similarity Learning-Based Type Inference for Python [`READ`]
+#### Type4Py- Practical Deep Similarity Learning-Based Type Inference for Python
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3510003.3510124)
 
@@ -143,7 +143,7 @@ citation:
 ```
 
 
-#### Typilus- Neural Type Hints [`READ`]
+#### Typilus- Neural Type Hints
 
 paper link: [here](https://arxiv.org/pdf/2004.10657)
 
@@ -162,7 +162,7 @@ citation:
     
 ### Survey
 
-#### Deep Learning Meets Software Engineering- A Survey on Pre-Trained Models of Source Code [`READ`]
+#### Deep Learning Meets Software Engineering- A Survey on Pre-Trained Models of Source Code
 
 paper link: [here](https://arxiv.org/pdf/2205.11739)
 

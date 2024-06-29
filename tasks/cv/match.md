@@ -4,7 +4,7 @@
 
 ### 2D - 2D
 
-#### Superglue: Learning feature matching with graph neural networks [`UNREAD`]
+#### Superglue: Learning feature matching with graph neural networks
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
 
@@ -21,7 +21,7 @@ citation:
     
 
 
-#### MAGSAC++, a fast, reliable and accurate robust estimator [`UNREAD`]
+#### MAGSAC++, a fast, reliable and accurate robust estimator
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Barath_MAGSAC_a_Fast_Reliable_and_Accurate_Robust_Estimator_CVPR_2020_paper.pdf)
 
@@ -37,7 +37,7 @@ citation:
 ```
     
 
-#### Key. net: Keypoint detection by handcrafted and learned cnn filters [`UNREAD`]
+#### Key. net: Keypoint detection by handcrafted and learned cnn filters
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2019/papers/Barroso-Laguna_Key.Net_Keypoint_Detection_by_Handcrafted_and_Learned_CNN_Filters_ICCV_2019_paper.pdf)
 
@@ -53,7 +53,7 @@ citation:
 ```
     
 
-#### Contextdesc: Local descriptor augmentation with cross-modality context [`UNREAD`]
+#### Contextdesc: Local descriptor augmentation with cross-modality context
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Luo_ContextDesc_Local_Descriptor_Augmentation_With_Cross-Modality_Context_CVPR_2019_paper.pdf)
 
@@ -68,7 +68,7 @@ citation:
 }
 ```
 
-#### Superpoint: Self-supervised interest point detection and description [`UNREAD`]
+#### Superpoint: Self-supervised interest point detection and description
 
 paper link: [here](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)
 
@@ -84,7 +84,7 @@ citation:
 ```
 
 
-#### LF-Net: Learning local features from images [`UNREAD`]
+#### LF-Net: Learning local features from images
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2018/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)
 
@@ -99,7 +99,7 @@ citation:
 }
 ```
 
-#### Dsac-differentiable ransac for camera localization [`UNREAD`]
+#### Dsac-differentiable ransac for camera localization
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.pdf)
 
@@ -116,7 +116,7 @@ citation:
     
     
     
-#### Lift: Learned invariant feature transform [`UNREAD`]
+#### Lift: Learned invariant feature transform
 
 paper link: [here](https://arxiv.org/pdf/1603.09114)
 
@@ -132,7 +132,7 @@ citation:
 }
 ```
 
-#### Learning deep features for discriminative localization (CAM) [`READ`]
+#### Learning deep features for discriminative localization (CAM)
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
 
@@ -149,7 +149,7 @@ citation:
     
     
 
-#### Deep image homography estimation [`UNREAD`]
+#### Deep image homography estimation
 
 paper link: [here](https://arxiv.org/pdf/1606.03798)
 
@@ -163,7 +163,7 @@ citation:
 }
 ```
 
-#### PN-Net: Conjoined triple deep network for learning local image descriptors [`UNREAD`]
+#### PN-Net: Conjoined triple deep network for learning local image descriptors
 
 paper link: [here](https://arxiv.org/pdf/1601.05030)
 
@@ -178,7 +178,7 @@ citation:
 ```
     
 
-#### Matchnet: Unifying feature and metric learning for patch-based matching [`UNREAD`]
+#### Matchnet: Unifying feature and metric learning for patch-based matching
 
 paper link: [here](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Han_MatchNet_Unifying_Feature_2015_CVPR_paper.pdf)
 
@@ -194,7 +194,7 @@ citation:
 ```
     
 
-#### Learning to compare image patches via convolutional neural networks [`UNREAD`]
+#### Learning to compare image patches via convolutional neural networks
 
 paper link: [here](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf)
 
@@ -209,7 +209,7 @@ citation:
 }
 ```
 
-#### ORB: An efficient alternative to SIFT or SURF [`READ`]
+#### ORB: An efficient alternative to SIFT or SURF
 
 paper link: [here](http://www.evreninsirlari.net/dosyalar/145_s14_01.pdf)
 
@@ -227,7 +227,7 @@ citation:
     
 
 
-#### Distinctive image features from scale-invariant keypoints [`UNREAD`]
+#### Distinctive image features from scale-invariant keypoints
 
 paper link: [here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cc58efc1f17e202a9c196f9df8afd4005d16042a)
 
@@ -251,7 +251,7 @@ citation:
 
 
 
-#### Lcd: Learned cross-domain descriptors for 2d-3d matching [`UNREAD`]
+#### Lcd: Learned cross-domain descriptors for 2d-3d matching
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/view/6859/6713)
 
@@ -269,7 +269,7 @@ citation:
 ```
     
 
-#### 2d3d-matchnet: Learning to match keypoints across 2d image and 3d point cloud [`READ`]
+#### 2d3d-matchnet: Learning to match keypoints across 2d image and 3d point cloud
 
 paper link: [here](https://arxiv.org/pdf/1904.09742)
 
@@ -289,7 +289,7 @@ citation:
 
 ### 3D - 3D
 
-#### Rpm-net: Robust point matching using learned features [`UNREAD`]
+#### Rpm-net: Robust point matching using learned features
 
 paper link: [here](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yew_RPM-Net_Robust_Point_Matching_Using_Learned_Features_CVPR_2020_paper.pdf)
 
@@ -306,7 +306,7 @@ citation:
     
 
 
-#### Learning multiview 3d point cloud registration [`UNREAD`]
+#### Learning multiview 3d point cloud registration
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gojcic_Learning_Multiview_3D_Point_Cloud_Registration_CVPR_2020_paper.pdf)
 
@@ -322,7 +322,7 @@ citation:
 ```
     
 
-#### 3dregnet: A deep neural network for 3d point registration [`UNREAD`]
+#### 3dregnet: A deep neural network for 3d point registration
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pais_3DRegNet_A_Deep_Neural_Network_for_3D_Point_Registration_CVPR_2020_paper.pdf)
 
@@ -338,7 +338,7 @@ citation:
 ```
     
 
-#### 3d pose estimation and 3d model retrieval for objects in the wild [`UNREAD`]
+#### 3d pose estimation and 3d model retrieval for objects in the wild
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2018/papers/Grabner_3D_Pose_Estimation_CVPR_2018_paper.pdf)
 
@@ -353,7 +353,7 @@ citation:
 }
 ```
     
-#### 3dmatch: Learning local geometric descriptors from rgb-d reconstructions [`UNREAD`]
+#### 3dmatch: Learning local geometric descriptors from rgb-d reconstructions
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)
 
@@ -368,7 +368,7 @@ citation:
 }
 ```
     
-#### Comparing ICP variants on real-world data sets: Open-source library and experimental protocol [`UNREAD`]
+#### Comparing ICP variants on real-world data sets: Open-source library and experimental protocol
 
 paper link: [here](https://hal.science/hal-01143458/document)
 
@@ -386,7 +386,7 @@ citation:
 ```
 
 
-#### Harris 3D: a robust extension of the Harris operator for interest point detection on 3D meshes [`UNREAD`]
+#### Harris 3D: a robust extension of the Harris operator for interest point detection on 3D meshes
 
 paper link: [here](https://www.ivan-sipiran.com/papers/SB11b.pdf)
 
@@ -403,7 +403,7 @@ citation:
 }
 ```
 
-#### Intrinsic shape signatures: A shape descriptor for 3D object recognition [`UNREAD`]
+#### Intrinsic shape signatures: A shape descriptor for 3D object recognition
 
 paper link: [here](https://www.researchgate.net/profile/Yu-Zhong-23/publication/224135303_Intrinsic_shape_signatures_A_shape_descriptor_for_3D_object_recognition/links/00b4952b8550b1c21c000000/Intrinsic-shape-signatures-A-shape-descriptor-for-3D-object-recognition.pdf)
 
@@ -423,7 +423,7 @@ citation:
 
 ### Sruvey
 
-#### Image matching from handcrafted to deep features: A survey [`UNREAD`]
+#### Image matching from handcrafted to deep features: A survey
 
 paper link: [here](https://link.springer.com/article/10.1007/s11263-020-01359-2)
 

@@ -3,12 +3,12 @@
 
 
 
-#### 201 Principles of Software Development [`UNREAD`]
+#### 201 Principles of Software Development
 book link: [here](https://pan.baidu.com/s/1cYixGw6Kqsfwn4tpL7-tHQ), with extraction code: `bbvc`
 
 
 
-#### 代码大全 中文第2版 [`UNREAD`]
+#### 代码大全 中文第2版
 book link: [here](https://pan.baidu.com/s/16iYN72altqYxh5v8ky59HQ), with extraction code: `whtf`
 
 

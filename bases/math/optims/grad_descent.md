@@ -3,7 +3,7 @@
 
 ## Paper
 
-#### A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning [`UNREAD`]
+#### A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning
 
 paper link: [here](https://arxiv.org/pdf/2310.18988)
 
@@ -17,7 +17,7 @@ citation:
 }
 ```
 
-#### Sharpness minimization algorithms do not only minimize sharpness to achieve better generalization [`UNREAD`]
+#### Sharpness minimization algorithms do not only minimize sharpness to achieve better generalization
 
 paper link: [here](https://arxiv.org/pdf/2307.11007)
 
@@ -32,7 +32,7 @@ citation:
 ```
     
 
-#### Abide by the Law and Follow the Flow: Conservation Laws for Gradient Flows [`UNREAD`]
+#### Abide by the Law and Follow the Flow: Conservation Laws for Gradient Flows
 
 paper link: [here](https://inria.hal.science/hal-04150576/file/2307.00144.pdf)
 
@@ -46,7 +46,7 @@ citation:
 ```
 
 
-#### Block Coordinate Descent on Smooth Manifolds: Convergence Theory and Twenty-One Examples [`UNREAD`]
+#### Block Coordinate Descent on Smooth Manifolds: Convergence Theory and Twenty-One Examples
 
 paper link: [here](https://arxiv.org/pdf/2305.14744.pdf)
 
@@ -62,7 +62,7 @@ citation:
 }
 ```
     
-#### Convergence of Stochastic Gradient Descent for PCA [`UNREAD`]
+#### Convergence of Stochastic Gradient Descent for PCA
 
 paper link: [here](http://proceedings.mlr.press/v48/shamirb16.pdf)
 
@@ -79,7 +79,7 @@ citation:
 ```
 
 
-#### An overview of gradient descent optimization algorithms [`UNREAD`]
+#### An overview of gradient descent optimization algorithms
 
 paper link: [here](https://arxiv.org/pdf/1609.04747)
 
@@ -93,7 +93,7 @@ citation:
 }
 ```
 
-#### Monte Carlo Sampling-Based Methods for Stochastic Optimization [`UNREAD`]
+#### Monte Carlo Sampling-Based Methods for Stochastic Optimization
 paper link: [here](https://optimization-online.org/wp-content/uploads/2013/06/3920.pdf)
 
 citation: 
@@ -110,7 +110,7 @@ citation:
 }
 ```
 
-#### Adaptive Subgradient Methods for Online Learning and Stochastic Optimization [`UNREAD`]
+#### Adaptive Subgradient Methods for Online Learning and Stochastic Optimization
 paper link: [here](https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 
 citation: 
@@ -125,7 +125,7 @@ citation:
 }
 ```
 
-#### AdaDelta- An Adaptive Learning Rate Method [`UNREAD`]
+#### AdaDelta- An Adaptive Learning Rate Method
 paper link: [here](https://arxiv.org/pdf/1212.5701)
 
 citation: 
@@ -138,7 +138,7 @@ citation:
 }
 ```
 
-#### Adam- A Method for Stochastic Optimization [`UNREAD`]
+#### Adam- A Method for Stochastic Optimization
 paper link: [here](https://arxiv.org/pdf/1412.6980.pdf%5D)
 
 citation: 
@@ -151,7 +151,7 @@ citation:
 }
 ```
 
-#### AdamW - Decoupled Weight Decay Regularization [`UNREAD`]
+#### AdamW - Decoupled Weight Decay Regularization
 paper link: [here](https://arxiv.org/pdf/1711.05101)
 
 citation: 
@@ -169,11 +169,11 @@ citation:
 
 ## Lectures
 
-### Dual Ascent [`UNREAD`]
+### Dual Ascent
 
 slide link: [here](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/dual-ascent.pdf)
 
-#### Dual decomposition and dual algorithms [`UNREAD`]
+#### Dual decomposition and dual algorithms
 
 slide link: [here](https://class.ece.uw.edu/546/2016spr/lectures/dualdecomp.pdf)
 

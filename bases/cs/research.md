@@ -2,7 +2,7 @@
 *Here're some resources about Scholar Reasearch*
 
 
-#### How to Read a Paper [`UNREAD`]
+#### How to Read a Paper
 
 paper link: [here](https://www.albany.edu/spatial/training/3-How%20to%20read%20a%20paper.pdf)
 
@@ -22,5 +22,5 @@ citation:
     
 
 
-#### The Craft of Research - Third Edition [`UNREAD`]
+#### The Craft of Research - Third Edition
 book link: [here](https://pan.baidu.com/s/1CbP5Y4VSl_WSiecrp0vfXA), with extraction code: `vnrn`

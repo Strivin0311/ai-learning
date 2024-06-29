@@ -7,7 +7,7 @@
 *Here're some resources about Data Augmentation for CV*
 
 
-#### A survey on Image Data Augmentation for Deep Learning [`READ`]
+#### A survey on Image Data Augmentation for Deep Learning
 
 paper link: [here](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0.pdf)
 
@@ -25,7 +25,7 @@ citation:
 }
 ```
 
-#### RandAugment: Practical automated data augmentation with a reduced search space [`UNREAD`]
+#### RandAugment: Practical automated data augmentation with a reduced search space
 
 paper link: [here](https://arxiv.org/pdf/1909.13719.pdf)
 
@@ -41,7 +41,7 @@ citation:
 }
 ```
 
-#### Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules [`UNREAD`]
+#### Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules
 
 paper link: [here](https://arxiv.org/pdf/1905.05393.pdf)
 
@@ -58,7 +58,7 @@ citation:
 ```
 
 
-#### Unsupervised Data Augmentation for Consistency Training [`UNREAD`]
+#### Unsupervised Data Augmentation for Consistency Training
 
 paper link: [here](https://arxiv.org/pdf/1904.12848.pdf)
 
@@ -75,7 +75,7 @@ citation:
 ```
 
 
-#### AutoAugment: Learning Augmentation Policies from Data [`UNREAD`]
+#### AutoAugment: Learning Augmentation Policies from Data
 
 paper link: [here](https://arxiv.org/pdf/1805.09501.pdf)
 
@@ -96,7 +96,7 @@ citation:
 *Here're some resources about Data Documentation for CV*
 
 
-#### Documenting Computer Vision Datasets- An Invitation to Reflexive Data Practices [`READ`]
+#### Documenting Computer Vision Datasets- An Invitation to Reflexive Data Practices
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3442188.3445880)
 

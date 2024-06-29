@@ -4,7 +4,7 @@
 
 ## TextBooks
 
-#### 机器翻译 基础与模型 [`READ`]
+#### 机器翻译 基础与模型
 book link: [here](https://pan.baidu.com/s/1VE4vLUMdpjxTqUj3G9KvQg), with extraction code: `m9ch`
 
 
@@ -12,7 +12,7 @@ book link: [here](https://pan.baidu.com/s/1VE4vLUMdpjxTqUj3G9KvQg), with extract
 ## Papers
 
 
-#### Fast and robust neural network joint models for statistical machine translation (Self-Normalisation) [`UNREAD`]
+#### Fast and robust neural network joint models for statistical machine translation (Self-Normalisation)
 
 paper link: [here](https://aclanthology.org/P14-1129.pdf)
 
@@ -28,7 +28,7 @@ citation:
 ```
 
 
-#### Shallow-to-deep training for neural machine translation [`UNREAD`]
+#### Shallow-to-deep training for neural machine translation
 
 paper link: [here](https://arxiv.org/pdf/2010.03737)
 
@@ -44,7 +44,7 @@ citation:
     
 
 
-#### Learning deep transformer models for machine translation [`UNREAD`]
+#### Learning deep transformer models for machine translation
 
 paper link: [here](https://arxiv.org/pdf/1906.01787)
 
@@ -59,7 +59,7 @@ citation:
 ```
     
 
-#### Training deeper neural machine translation models with transparent attention [`UNREAD`]
+#### Training deeper neural machine translation models with transparent attention
 
 paper link: [here](https://arxiv.org/pdf/1808.07561.pdf)
 
@@ -74,7 +74,7 @@ citation:
 ```
     
 
-#### Learning phrase representations using RNN encoder-decoder for statistical machine translation [`UNREAD`]
+#### Learning phrase representations using RNN encoder-decoder for statistical machine translation
 
 paper link: [here](https://arxiv.org/pdf/1406.1078.pdf)
 

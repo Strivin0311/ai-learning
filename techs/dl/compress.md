@@ -5,7 +5,7 @@
 ## Quantization
 
 
-#### Searching for Low-Bit Weights in Quantized Neural Networks [`UNREAD`]
+#### Searching for Low-Bit Weights in Quantized Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/2009.08695)
 
@@ -23,7 +23,7 @@ citation:
 ```
 
 
-#### Quantizing deep convolutional networks for efficient inference: A whitepaper [`UNREAD`]
+#### Quantizing deep convolutional networks for efficient inference: A whitepaper
 
 paper link: [here](https://arxiv.org/pdf/1806.08342)
 
@@ -44,7 +44,7 @@ citation:
 ## Knowledge Distillation
 
 
-#### Dreaming to Distill- Data-free Knowledge Transfer via DeepInversion [`UNREAD`]
+#### Dreaming to Distill- Data-free Knowledge Transfer via DeepInversion
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf)
 
 citation: 
@@ -58,7 +58,7 @@ citation:
 }
 ```
 
-#### The knowledge within- Methods for data-free model compression [`UNREAD`]
+#### The knowledge within- Methods for data-free model compression
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haroush_The_Knowledge_Within_Methods_for_Data-Free_Model_Compression_CVPR_2020_paper.pdf)
 
 citation: 
@@ -73,7 +73,7 @@ citation:
 ```
 
 
-#### Zero-Shot Knowledge Distillation in Deep Networks [`UNREAD`]
+#### Zero-Shot Knowledge Distillation in Deep Networks
 paper link: [here](http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf)
 
 citation: 
@@ -93,7 +93,7 @@ citation:
 ## Pruning
 
 
-#### SCOP: Scientific Control for Reliable Neural Network Pruning [`UNREAD`]
+#### SCOP: Scientific Control for Reliable Neural Network Pruning
 
 paper link: [here](https://arxiv.org/pdf/2010.10732)
 
@@ -111,7 +111,7 @@ citation:
 ```
 
 
-#### AdderNet: Do We Really Need Multiplications in Deep Learning? [`UNREAD`]
+#### AdderNet: Do We Really Need Multiplications in Deep Learning?
 
 
 paper link: [here](https://arxiv.org/pdf/1912.13200)
@@ -131,7 +131,7 @@ citation:
 
 
 
-#### GhostNet: More Features from Cheap Operations [`UNREAD`]
+#### GhostNet: More Features from Cheap Operations
 
 paper link: [here](https://arxiv.org/pdf/1911.11907)
 

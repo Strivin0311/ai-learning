@@ -4,7 +4,7 @@
 
 
 
-#### Vocabulary-free Image Classification [`UNREAD`]
+#### Vocabulary-free Image Classification
 
 paper link: [here](https://arxiv.org/pdf/2306.00917)
 
@@ -18,7 +18,7 @@ citation:
 }
 ```
 
-#### Pointnet: Deep learning on point sets for 3d classification and segmentation [`UNREAD`]
+#### Pointnet: Deep learning on point sets for 3d classification and segmentation
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)
 
@@ -35,7 +35,7 @@ citation:
 
 
 
-#### Residual attention network for image classification [`UNREAD`]
+#### Residual attention network for image classification
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf)
 
@@ -55,7 +55,7 @@ citation:
 ### Survey
 
 
-#### Review of image classification algorithms based on convolutional neural networks [`UNREAD`]
+#### Review of image classification algorithms based on convolutional neural networks
 
 paper link: [here](https://www.mdpi.com/2072-4292/13/22/4712)
 
@@ -75,7 +75,7 @@ citation:
 
 
 
-#### Image classification: a survey [`UNREAD`]
+#### Image classification: a survey
 
 paper link: [here](https://jieee.a2zjournals.com/index.php/ieee/article/download/2/7)
 
@@ -94,7 +94,7 @@ citation:
     
 
 
-#### Deep convolutional neural networks for image classification: A comprehensive review [`UNREAD`]
+#### Deep convolutional neural networks for image classification: A comprehensive review
 
 paper link: [here](https://www.researchgate.net/profile/Zenghui-Wang-6/publication/317496930_Deep_Convolutional_Neural_Networks_for_Image_Classification_A_Comprehensive_Review/links/59f814630f7e9b553ebefe27/Deep-Convolutional-Neural-Networks-for-Image-Classification-A-Comprehensive-Review.pdf)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Language Modeling (Word Embedding)*
     
     
-#### SimCSE: Simple Contrastive Learning of Sentence Embeddings [`UNREAD`]
+#### SimCSE: Simple Contrastive Learning of Sentence Embeddings
 
 paper link: [here](https://arxiv.org/pdf/2104.08821.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### Skip-thought vectors [`UNREAD`]
+#### Skip-thought vectors
 
 paper link: [here](https://proceedings.neurips.cc/paper/2015/file/f442d33fa06832082290ad8544a8da27-Paper.pdf)
 
@@ -34,7 +34,7 @@ citation:
 }
 ```
 
-#### Glove: Global vectors for word representation [`UNREAD`]
+#### Glove: Global vectors for word representation
 
 paper link: [here](https://aclanthology.org/D14-1162.pdf)
 
@@ -49,7 +49,7 @@ citation:
 }
 ```
 
-#### Fast and robust neural network joint models for statistical machine translation (Self-Normalisation) [`UNREAD`]
+#### Fast and robust neural network joint models for statistical machine translation (Self-Normalisation)
 
 paper link: [here](https://aclanthology.org/P14-1129.pdf)
 
@@ -64,7 +64,7 @@ citation:
 }
 ```
 
-#### Distributed representations of words and phrases and their compositionality (Negative Sampling) [`UNREAD`]
+#### Distributed representations of words and phrases and their compositionality (Negative Sampling)
 
 paper link: [here](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
@@ -80,7 +80,7 @@ citation:
 ```
     
 
-#### Efficient estimation of word representations in vector space (Word2Vec) [`UNREAD`]
+#### Efficient estimation of word representations in vector space (Word2Vec)
 
 paper link: [here](https://arxiv.org/pdf/1301.3781.pdf%C3%AC%E2%80%94%20%C3%AC%E2%80%9E%C5%93)
 
@@ -95,7 +95,7 @@ citation:
 ```
 
 
-#### A Fast and Simple Algorithm for Training Neural Probabilistic Language Models (NCE) [`UNREAD`]
+#### A Fast and Simple Algorithm for Training Neural Probabilistic Language Models (NCE)
 
 paper link: [here](https://arxiv.org/pdf/1206.6426)
 

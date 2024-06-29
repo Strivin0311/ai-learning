@@ -3,7 +3,7 @@
 
 
 
-#### Unsupervised data augmentation for consistency training [`UNREAD`]
+#### Unsupervised data augmentation for consistency training
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/44feb0096faa8326192570788b38c1d1-Paper.pdf)
 
 citation: 
@@ -18,7 +18,7 @@ citation:
 }
 ```
 
-#### Fixmatch- Simplifying semi-supervised learning with consistency and confidence [`UNREAD`]
+#### Fixmatch- Simplifying semi-supervised learning with consistency and confidence
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf)
 
 citation: 
@@ -34,7 +34,7 @@ citation:
 ```
 
 
-#### Mixmatch- A holistic approach to semi-supervised learning [`UNREAD`]
+#### Mixmatch- A holistic approach to semi-supervised learning
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf)
 
 citation: 
@@ -49,7 +49,7 @@ citation:
 ```
 
 
-#### Virtual adversarial training- a regularization method for supervised and semi-supervised learning [`UNREAD`]
+#### Virtual adversarial training- a regularization method for supervised and semi-supervised learning
 paper link: [here](https://arxiv.org/pdf/1704.03976)
 
 citation: 
@@ -66,7 +66,7 @@ citation:
 }
 ```
 
-#### Mean teachers are better role models- Weight-averaged consistency targets improve semi-supervised deep learning results [`UNREAD`]
+#### Mean teachers are better role models- Weight-averaged consistency targets improve semi-supervised deep learning results
 paper link: [here](https://proceedings.neurips.cc/paper/2017/file/68053af2923e00204c3ca7c6a3150cf7-Paper.pdf)
 
 citation: 
@@ -80,7 +80,7 @@ citation:
 }
 ```
 
-#### Temporal ensembling for semi-supervised learning [`UNREAD`]
+#### Temporal ensembling for semi-supervised learning
 paper link: [here](https://arxiv.org/pdf/1610.02242.pdf)
 
 citation: 

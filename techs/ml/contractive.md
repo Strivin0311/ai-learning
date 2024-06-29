@@ -2,7 +2,7 @@
 *Here're some resources about Contrastive Learning / Metric Learning*
 
 
-#### SimCSE: Simple Contrastive Learning of Sentence Embeddings [`UNREAD`]
+#### SimCSE: Simple Contrastive Learning of Sentence Embeddings
 
 paper link: [here](https://arxiv.org/pdf/2104.08821.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### Debiased Contrastive Learning [`UNREAD`]
+#### Debiased Contrastive Learning
 
 paper link: [here](https://arxiv.org/pdf/2007.00224.pdf)
 
@@ -35,7 +35,7 @@ citation:
 }
 ```
 
-#### CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information [`UNREAD`]
+#### CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information
 
 paper link: [here](http://proceedings.mlr.press/v119/cheng20b/cheng20b.pdf)
 
@@ -51,7 +51,7 @@ citation:
 }
 ```
 
-#### A Simple Framework for Contrastive Learning of Visual Representations (SimCLR) [`UNREAD`]
+#### A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)
 
 paper link: [here](https://arxiv.org/pdf/2002.05709.pdf)
 
@@ -67,7 +67,7 @@ citation:
 }
 ```
 
-#### Momentum Contrast for Unsupervised Visual Representation Learning (MoCo) [`UNREAD`]
+#### Momentum Contrast for Unsupervised Visual Representation Learning (MoCo)
 
 paper link: [here](https://arxiv.org/pdf/1911.05722.pdf)
 
@@ -83,7 +83,7 @@ citation:
 }
 ```
 
-#### Analyzing and Improving Representations with the Soft Nearest Neighbor Loss (SNN Loss) [`UNREAD`]
+#### Analyzing and Improving Representations with the Soft Nearest Neighbor Loss (SNN Loss)
 
 paper link: [here](https://arxiv.org/pdf/1902.01889.pdf)
 
@@ -100,7 +100,7 @@ citation:
 ```
 
 
-#### Representation Learning with Contrastive Predictive Coding (CPC) [`UNREAD`]
+#### Representation Learning with Contrastive Predictive Coding (CPC)
 
 paper link: [here](https://arxiv.org/pdf/1807.03748.pdf)
 
@@ -114,7 +114,7 @@ citation:
 }
 ```
 
-#### Improved Deep Metric Learning with Multi-class N-pair Loss Objectives [`UNREAD`]
+#### Improved Deep Metric Learning with Multi-class N-pair Loss Objectives
 
 paper link: [here](https://proceedings.neurips.cc/paper/2016/file/6b180037abbebea991d8b1232f8a8ca9-Paper.pdf)
 
@@ -130,7 +130,7 @@ citation:
 ```
 
 
-#### Deep Metric Learning via Lifted Structured Feature Embedding (Lifted Structured Loss) [`UNREAD`]
+#### Deep Metric Learning via Lifted Structured Feature Embedding (Lifted Structured Loss)
 
 paper link: [here](https://arxiv.org/pdf/1511.06452.pdf)
 
@@ -147,7 +147,7 @@ citation:
 ```
 
 
-#### FaceNet: A Unified Embedding for Face Recognition and Clustering (Triplet Loss) [`UNREAD`]
+#### FaceNet: A Unified Embedding for Face Recognition and Clustering (Triplet Loss)
 
 paper link: [here](https://arxiv.org/pdf/1503.03832.pdf)
 
@@ -165,7 +165,7 @@ citation:
 }
 ```
 
-#### Distributed representations of words and phrases and their compositionality (Negative Sampling) [`UNREAD`]
+#### Distributed representations of words and phrases and their compositionality (Negative Sampling)
 
 paper link: [here](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
@@ -181,7 +181,7 @@ citation:
 ```
 
 
-#### Noise-contrastive estimation: A new estimation principle for unnormalized statistical models (NCE) [`UNREAD`]
+#### Noise-contrastive estimation: A new estimation principle for unnormalized statistical models (NCE)
 
 paper link: [here](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
 
@@ -198,7 +198,7 @@ citation:
 ```
 
 
-#### Dimensionality Reduction by Learning an Invariant Mapping [`UNREAD`]
+#### Dimensionality Reduction by Learning an Invariant Mapping
 
 paper link: [here](https://www.academia.edu/download/56222713/cvpr06.pdf)
 

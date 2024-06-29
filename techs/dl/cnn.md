@@ -2,7 +2,7 @@
 *Here're some resources about Convolutional Neutral Networks*
 
 
-#### The reversible residual network: Backpropagation without storing activations (RevNet) [`UNREAD`]
+#### The reversible residual network: Backpropagation without storing activations (RevNet)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
 
@@ -19,7 +19,7 @@ citation:
     
 
 
-#### Deep residual learning for image recognition (ResNet) [`READ`]
+#### Deep residual learning for image recognition (ResNet)
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -36,7 +36,7 @@ citation:
     
 
 
-#### Going deeper with convolutions (GoogLeNet) [`READ`]
+#### Going deeper with convolutions (GoogLeNet)
 
 paper link: [here](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
 
@@ -55,7 +55,7 @@ here's a notebook to do image style transformation using `VGG19`: [here](../../n
 
     
 
-#### Imagenet classification with deep convolutional neural networks (AlexNet) [`READ`]
+#### Imagenet classification with deep convolutional neural networks (AlexNet)
 
 paper link: [here](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
@@ -71,7 +71,7 @@ citation:
 ```
     
 
-#### Gradient-based learning applied to document recognition (LeNet) [`READ`]
+#### Gradient-based learning applied to document recognition (LeNet)
 
 paper link: [here](https://hal.science/hal-03926082/document)
 

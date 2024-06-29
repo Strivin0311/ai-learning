@@ -1,7 +1,7 @@
 # Learning to Solve
 *Here're some resources about Learning to Solve*
 
-#### Guiding high-performance SAT solvers with unsat-core predictions [`UNREAD`]
+#### Guiding high-performance SAT solvers with unsat-core predictions
 
 paper link: [here](https://arxiv.org/pdf/1903.04671)
 
@@ -18,7 +18,7 @@ citation:
 ```
     
 
-#### Learning to solve np-complete problems: A graph neural network for decision tsp [`UNREAD`]
+#### Learning to solve np-complete problems: A graph neural network for decision tsp
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/view/4399/4277)
 
@@ -35,7 +35,7 @@ citation:
 }
 ```
 
-#### Learning a SAT solver from single-bit supervision [`UNREAD`]
+#### Learning a SAT solver from single-bit supervision
 
 paper link: [here](https://arxiv.org/pdf/1802.03685)
 

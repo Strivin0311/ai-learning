@@ -2,7 +2,7 @@
 *Here're some resources about Data Generation*
 
 
-#### Advances, challenges and opportunities in creating data for trustworthy AI [`READ`]
+#### Advances, challenges and opportunities in creating data for trustworthy AI
 paper link: [here](https://www.nature.com/articles/s42256-022-00516-1)
 
 citation: 
@@ -19,7 +19,7 @@ citation:
 }
 ```
 
-#### Towards Accountability for Machine Learning Datasets- Practices from Software Engineering and Infrastructure [`UNREAD`]
+#### Towards Accountability for Machine Learning Datasets- Practices from Software Engineering and Infrastructure
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3442188.3445918)
 
 citation: 

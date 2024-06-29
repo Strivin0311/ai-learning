@@ -2,7 +2,7 @@
 *Here're some resources about Continual Learning*
 
 
-#### Task Arithmetic with LoRA for Continual Learning [`UNREAD`]
+#### Task Arithmetic with LoRA for Continual Learning
 
 paper link: [here](https://arxiv.org/pdf/2311.02428.pdf)
 
@@ -18,7 +18,7 @@ citation:
 }
 ```
 
-#### Embracing Change: Continual Learning in Deep Neural Networks [`UNREAD`]
+#### Embracing Change: Continual Learning in Deep Neural Networks
 
 paper link: [here](https://www.cell.com/trends/cognitive-sciences/pdf/S1364-6613(20)30219-9.pdf)
 
@@ -36,7 +36,7 @@ citation:
 }
 ```
 
-#### A continual learning survey: Defying forgetting in classification tasks [`UNREAD`]
+#### A continual learning survey: Defying forgetting in classification tasks
 
 paper link: [here](https://arxiv.org/pdf/1909.08383)
 
@@ -54,7 +54,7 @@ citation:
 }
 ```
 
-#### Dynamic few-shot visual learning without forgetting [`UNREAD`]
+#### Dynamic few-shot visual learning without forgetting
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gidaris_Dynamic_Few-Shot_Visual_CVPR_2018_paper.pdf)
 
@@ -70,7 +70,7 @@ citation:
 ```
 
 
-#### Memory aware synapses: Learning what (not) to forget [`UNREAD`]
+#### Memory aware synapses: Learning what (not) to forget
 
 paper link: [here](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rahaf_Aljundi_Memory_Aware_Synapses_ECCV_2018_paper.pdf)
 
@@ -86,7 +86,7 @@ citation:
 ```
 
 
-#### Overcoming catastrophic forgetting in neural networks [`UNREAD`]
+#### Overcoming catastrophic forgetting in neural networks
 
 paper link: [here](https://www.pnas.org/doi/pdf/10.1073/pnas.1611835114)
 
@@ -105,7 +105,7 @@ citation:
 ```
 
 
-#### Learning without forgetting [`UNREAD`]
+#### Learning without forgetting
 
 paper link: [here](https://ieeexplore.ieee.org/ielaam/34/8520726/8107520-aam.pdf)
 

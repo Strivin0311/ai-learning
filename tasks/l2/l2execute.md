@@ -2,7 +2,7 @@
 *Here're some resources about Learning to Execute*
 
 
-#### Learning to execute: Efficient learning of universal plan-conditioned policies in robotics [`UNREAD`]
+#### Learning to execute: Efficient learning of universal plan-conditioned policies in robotics
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/0e9b734aa25ca8096cb7b56dc0dd8929-Paper.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
     
 
-#### Learning to execute [`UNREAD`]
+#### Learning to execute
 
 paper link: [here](https://arxiv.org/pdf/1410.4615)
 

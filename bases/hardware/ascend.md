@@ -3,7 +3,7 @@
 
 
 
-#### Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper [`UNREAD`]
+#### Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper
 
 paper link: [here](https://ieeexplore.ieee.org/document/9407221)
 

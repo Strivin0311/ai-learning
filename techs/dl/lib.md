@@ -2,7 +2,7 @@
 *Here're some resources about Deep Learning Integrated Library*
 
 
-#### Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations [`UNREAD`]
+#### Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations
 
 paper link: [here](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf)
 
@@ -26,7 +26,7 @@ citation:
 ```
 
 
-#### PyTorch: An Imperative Style, High-Performance Deep Learning Library [`UNREAD`]
+#### PyTorch: An Imperative Style, High-Performance Deep Learning Library
 
 paper link: [here](https://arxiv.org/pdf/1912.01703)
 
@@ -46,7 +46,7 @@ citation:
 ```
 
 
-#### TensorFlow Eager: A Multi-Stage, Python-Embedded DSL for Machine Learning [`UNREAD`]
+#### TensorFlow Eager: A Multi-Stage, Python-Embedded DSL for Machine Learning
 
 paper link: [here](https://arxiv.org/pdf/1903.01855)
 
@@ -66,7 +66,7 @@ citation:
 ```
 
 
-#### TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems [`UNREAD`]
+#### TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
 
 paper link: [here](https://arxiv.org/pdf/1603.04467)
 

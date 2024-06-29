@@ -3,7 +3,7 @@
 
 
 
-#### Learning compositional neural programs with recursive tree search and planning [`UNREAD`]
+#### Learning compositional neural programs with recursive tree search and planning
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/95b431e51fc53692913da5263c214162-Paper.pdf)
 
@@ -20,7 +20,7 @@ citation:
     
 
 
-#### Program synthesis and semantic parsing with learned code idioms [`UNREAD`]
+#### Program synthesis and semantic parsing with learned code idioms
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/cff34ad343b069ea6920464ad17d4bcf-Paper.pdf)
 
@@ -35,7 +35,7 @@ citation:
 }
 ```
 
-#### Neural-guided deductive search for real-time program synthesis from examples [`UNREAD`]
+#### Neural-guided deductive search for real-time program synthesis from examples
 
 paper link: [here](https://arxiv.org/pdf/1804.01186)
 
@@ -51,7 +51,7 @@ citation:
     
 
 
-#### Learning libraries of subroutines for neurally–guided bayesian program induction [`UNREAD`]
+#### Learning libraries of subroutines for neurally–guided bayesian program induction
 
 paper link: [here](https://proceedings.neurips.cc/paper/2018/file/7aa685b3b1dc1d6780bf36f7340078c9-Paper.pdf)
 
@@ -66,7 +66,7 @@ citation:
 }
 ```
 
-#### Programming with a differentiable forth interpreter [`UNREAD`]
+#### Programming with a differentiable forth interpreter
 
 paper link: [here](http://proceedings.mlr.press/v70/bosnjak17a/bosnjak17a.pdf)
 
@@ -82,7 +82,7 @@ citation:
 }
 ```
     
-#### Reinforcement learning neural turing machines-revised [`UNREAD`]
+#### Reinforcement learning neural turing machines-revised
 
 paper link: [here](https://arxiv.org/pdf/1505.00521)
 
@@ -98,7 +98,7 @@ citation:
     
     
 
-#### Neural turing machines [`READ`]
+#### Neural turing machines
 
 paper link: [here](https://arxiv.org/pdf/1410.5401.pdf)
 
@@ -113,7 +113,7 @@ citation:
 ```
 
 
-#### Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs [`UNREAD`]
+#### Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs
 
 paper link: [here](http://web.stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf)
 

@@ -3,14 +3,14 @@
 
 ## TextBooks
 
-#### Graph Representation Learning [`UNREAD`]
+#### Graph Representation Learning
 book link: [here](https://pan.baidu.com/s/1hlCs1HExsVeLQSRlHQ2WVA), with extraction code: `vn1h`
 
 
 ## Papers
 
 
-#### A comprehensive survey on graph neural networks [`UNREAD`]
+#### A comprehensive survey on graph neural networks
 
 paper link: [here](https://ieeexplore.ieee.org/ielaam/5962385/9312808/9046288-aam.pdf)
 
@@ -28,7 +28,7 @@ citation:
 }
 ```
 
-#### Principal neighbourhood aggregation for graph nets [`UNREAD`]
+#### Principal neighbourhood aggregation for graph nets
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/99cad265a1768cc2dd013f0e740300ae-Paper.pdf)
 
@@ -45,7 +45,7 @@ citation:
 ```
     
 
-#### Design space for graph neural networks [`UNREAD`]
+#### Design space for graph neural networks
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/c5c3d4fe6b2cc463c7d7ecba17cc9de7-Paper.pdf)
 
@@ -61,7 +61,7 @@ citation:
 }
 ```
 
-#### Anonymous walk embeddings [`UNREAD`]
+#### Anonymous walk embeddings
 
 paper link: [here](http://proceedings.mlr.press/v80/ivanov18a/ivanov18a.pdf)
 
@@ -77,7 +77,7 @@ citation:
 }
 ```
 
-#### Inductive representation learning on large graphs (GraphSAGE) [`UNREAD`]
+#### Inductive representation learning on large graphs (GraphSAGE)
 
 paper link: [here](https://proceedings.neurips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)
 
@@ -93,7 +93,7 @@ citation:
 ```
     
  
-#### Graph attention networks (GAN) [`READ`]
+#### Graph attention networks (GAN)
 
 paper link: [here](https://arxiv.org/pdf/1710.10903.pdf%22%22GraphAttentionNetworks%22%22)
 
@@ -108,7 +108,7 @@ citation:
 ```
          
     
-#### Gated graph sequence neural networks (GGNN) [`READ`]
+#### Gated graph sequence neural networks (GGNN)
 
 paper link: [here](https://arxiv.org/pdf/1511.05493)
 

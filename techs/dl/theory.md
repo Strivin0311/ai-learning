@@ -5,7 +5,7 @@
 ## Papers
 
 
-#### Balance, Imbalance, and Rebalance: Understanding Robust Overfitting from a Minimax Game Perspective [`UNREAD`]
+#### Balance, Imbalance, and Rebalance: Understanding Robust Overfitting from a Minimax Game Perspective
 
 paper link: [here](https://arxiv.org/pdf/2310.19360)
 
@@ -21,7 +21,7 @@ citation:
     
 
 
-#### The clock and the pizza: Two stories in mechanistic explanation of neural networks [`UNREAD`]
+#### The clock and the pizza: Two stories in mechanistic explanation of neural networks
 
 paper link: [here](https://arxiv.org/pdf/2306.17844)
 
@@ -36,7 +36,7 @@ citation:
 ```
 
 
-#### Loss Spike in Training Neural Networks [`UNREAD`]
+#### Loss Spike in Training Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/2305.12133)
 
@@ -54,7 +54,7 @@ citation:
 ```
     
 
-#### Tracr: Compiled transformers as a laboratory for interpretability [`UNREAD`]
+#### Tracr: Compiled transformers as a laboratory for interpretability
 
 paper link: [here](https://arxiv.org/pdf/2301.05062.pdf)
 
@@ -70,7 +70,7 @@ citation:
     
 
 
-#### Fast finite width neural tangent kernel (NTK) [`READ`]
+#### Fast finite width neural tangent kernel (NTK)
 
 paper link: [here](https://proceedings.mlr.press/v162/novak22a/novak22a.pdf)
 
@@ -87,7 +87,7 @@ citation:
 ```
     
 
-#### Understanding deep learning (still) requires rethinking generalization [`UNREAD`]
+#### Understanding deep learning (still) requires rethinking generalization
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3446776)
 
@@ -106,7 +106,7 @@ citation:
 ```
 
 
-#### The Hardware Lottery [`READ`]
+#### The Hardware Lottery
 
 paper link: [here](https://arxiv.org/pdf/2009.06489)
 
@@ -124,7 +124,7 @@ citation:
 ```
 
 
-#### Wide neural networks of any depth evolve as linear models under gradient descent [`UNREAD`]
+#### Wide neural networks of any depth evolve as linear models under gradient descent
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/0d1a9651497a38d8b1c3871c84528bd4-Paper.pdf)
 
@@ -139,7 +139,7 @@ citation:
 }
 ```
 
-#### Sparse Networks from Scratch: Faster Training without Losing Performance [`UNREAD`]
+#### Sparse Networks from Scratch: Faster Training without Losing Performance
 
 paper link: [here](https://arxiv.org/pdf/1907.04840.pdf)
 
@@ -160,7 +160,7 @@ citation:
 ```
     
 
-#### What can neural networks reason about? [`UNREAD`]
+#### What can neural networks reason about?
 
 paper link: [here](https://arxiv.org/pdf/1905.13211)
 
@@ -174,7 +174,7 @@ citation:
 }
 ```
 
-#### Low-memory neural network training: A technical report [`UNREAD`]
+#### Low-memory neural network training: A technical report
 
 paper link: [here](https://arxiv.org/pdf/1904.10631)
 
@@ -189,7 +189,7 @@ citation:
 ```
     
 
-#### Neural tangent kernel: Convergence and generalization in neural networks [`READ`]
+#### Neural tangent kernel: Convergence and generalization in neural networks
 
 paper link: [here](https://proceedings.neurips.cc/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf)
 
@@ -204,7 +204,7 @@ citation:
 }
 ```
     
-#### How does batch normalization help optimization? [`UNREAD`]
+#### How does batch normalization help optimization?
 
 paper link: [here](https://proceedings.neurips.cc/paper/2018/file/905056c1ac1dad141560467e0a99e1cf-Paper.pdf)
 
@@ -220,7 +220,7 @@ citation:
 ```
     
 
-#### The matrix calculus you need for deep learning [`UNREAD`]
+#### The matrix calculus you need for deep learning
 
 paper link: [here](https://arxiv.org/pdf/1802.01528.pdf)
 
@@ -234,7 +234,7 @@ citation:
 }
 ```
     
-#### Automatic differentiation in machine learning: a survey [`UNREAD`]
+#### Automatic differentiation in machine learning: a survey
 
 paper link: [here](https://www.jmlr.org/papers/volume18/17-468/17-468.pdf)
 
@@ -251,7 +251,7 @@ citation:
 }
 ```
 
-#### Reviving and improving recurrent back-propagation [`UNREAD`]
+#### Reviving and improving recurrent back-propagation
 
 paper link: [here](http://proceedings.mlr.press/v80/liao18c/liao18c.pdf)
 
@@ -269,7 +269,7 @@ citation:
      
 
 
-#### To understand deep learning we need to understand kernel learning [`UNREAD`]
+#### To understand deep learning we need to understand kernel learning
 
 paper link: [here](http://proceedings.mlr.press/v80/belkin18a/belkin18a.pdf)
 
@@ -286,7 +286,7 @@ citation:
 ```
     
 
-#### Deep neural networks as gaussian processes [`UNREAD`]
+#### Deep neural networks as gaussian processes
 
 paper link: [here](https://arxiv.org/pdf/1711.00165)
 
@@ -301,7 +301,7 @@ citation:
 ```
   
 
-#### Grad-cam: Visual explanations from deep networks via gradient-based localization [`READ`]
+#### Grad-cam: Visual explanations from deep networks via gradient-based localization
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
 
@@ -317,7 +317,7 @@ citation:
 ``` 
     
 
-#### Delving deep into rectifiers: Surpassing human-level performance on imagenet classification (PReLU / MSRA) [`UNREAD`]
+#### Delving deep into rectifiers: Surpassing human-level performance on imagenet classification (PReLU / MSRA)
 
 paper link: [here](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 
@@ -333,7 +333,7 @@ citation:
 ```
     
 
-#### Stochastic backpropagation and approximate inference in deep generative models [`READ`]
+#### Stochastic backpropagation and approximate inference in deep generative models
 
 paper link: [here](http://proceedings.mlr.press/v32/rezende14.pdf)
 
@@ -350,7 +350,7 @@ citation:
 ```
 
 
-#### Deep Networks With Large Output Spaces (Infrequent Normalisation) [`UNREAD`]
+#### Deep Networks With Large Output Spaces (Infrequent Normalisation)
 
 paper link: [here](https://arxiv.org/pdf/1412.7479)
 
@@ -366,7 +366,7 @@ citation:
     
     
 
-#### Understanding the exploding gradient problem [`UNREAD`]
+#### Understanding the exploding gradient problem
 
 paper link: [here](https://arxiv.org/pdf/1211.5063v1.pdf)
 
@@ -385,7 +385,7 @@ citation:
     
 
 
-#### Understanding the difficulty of training deep feedforward neural networks (Xavier) [`UNREAD`]
+#### Understanding the difficulty of training deep feedforward neural networks (Xavier)
 
 paper link: [here](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 
@@ -405,5 +405,5 @@ citation:
 
 ## TextBooks
 
-#### Deep Learning (Flower Book) [`READ`]
+#### Deep Learning (Flower Book)
 book link: [here](https://pan.baidu.com/s/1PDcCj4JiWsRlEStaHPchGA), with extraction code: `ya9y`

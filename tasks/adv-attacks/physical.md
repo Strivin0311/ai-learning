@@ -2,7 +2,7 @@
 *Here're some resources about Physical-World Adversarial Attacks*
 
 
-#### Shadows can be dangerous: Stealthy and effective physical-world adversarial attack by natural phenomenon [`READ`]
+#### Shadows can be dangerous: Stealthy and effective physical-world adversarial attack by natural phenomenon
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Shadows_Can_Be_Dangerous_Stealthy_and_Effective_Physical-World_Adversarial_Attack_CVPR_2022_paper.pdf)
 
@@ -17,7 +17,7 @@ citation:
 }
 ```
     
-#### Adversarial camera stickers: A physical camera-based attack on deep learning systems [`READ`]
+#### Adversarial camera stickers: A physical camera-based attack on deep learning systems
 
 paper link: [here](http://proceedings.mlr.press/v97/li19j/li19j.pdf)
 
@@ -34,7 +34,7 @@ citation:
 ```
     
 
-#### Shapeshifter: Robust physical adversarial attack on faster r-cnn object detector [`READ`]
+#### Shapeshifter: Robust physical adversarial attack on faster r-cnn object detector
 
 paper link: [here](https://arxiv.org/pdf/1804.05810)
 
@@ -50,7 +50,7 @@ citation:
 }
 ```
     
-#### Seeing isn't believing: Towards more robust adversarial attack against real world object detectors [`READ`]
+#### Seeing isn't believing: Towards more robust adversarial attack against real world object detectors
 
 paper link: [here](https://arxiv.org/pdf/1812.10217.pdf?utm_source=Computer+Science&utm_campaign=df6a01eeeb-MET_CS_NEWSLETTER_2019_JANUARY_COPY_01&utm_medium=email&utm_term=0_e1f9af7056-df6a01eeeb-268061109)
 
@@ -67,7 +67,7 @@ citation:
     
 
 
-#### Robust physical-world attacks on deep learning visual classification (RP2) [`READ`]
+#### Robust physical-world attacks on deep learning visual classification (RP2)
 
 paper link: [here](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)
 
@@ -83,7 +83,7 @@ citation:
 ```
 
 
-#### Synthesizing robust adversarial examples (EOT) [`READ`]
+#### Synthesizing robust adversarial examples (EOT)
 
 paper link: [here](http://proceedings.mlr.press/v80/athalye18b/athalye18b.pdf)
 

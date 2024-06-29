@@ -2,7 +2,7 @@
 *Here're some resources about Few-Shot Learning*
 
 
-#### A Survey on Machine Learning from Few Samples [`READ`]
+#### A Survey on Machine Learning from Few Samples
 paper link: [here](https://arxiv.org/pdf/2009.02653)
 
 citation: 
@@ -17,7 +17,7 @@ citation:
 }
 ```
 
-#### Generalizing from a Few Examples: A Survey on Few-shot Learning [`UNREAD`]
+#### Generalizing from a Few Examples: A Survey on Few-shot Learning
 paper link: [here](https://arxiv.org/pdf/1904.05046.pdf)
 
 citation: 

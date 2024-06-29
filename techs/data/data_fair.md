@@ -2,7 +2,7 @@
 *Here're some resources about Data Fairness*
 
 
-#### Towards Fairer Datasets- Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy [`UNREAD`]
+#### Towards Fairer Datasets- Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy
 paper link: [here](https://arxiv.org/pdf/1912.07726)
 
 citation: 
@@ -17,7 +17,7 @@ citation:
 ```
 
 
-#### Multiaccuracy- Black-Box Post-Processing for Fairness in Classification [`READ`]
+#### Multiaccuracy- Black-Box Post-Processing for Fairness in Classification
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3306618.3314287)
 
 citation: 
@@ -31,7 +31,7 @@ citation:
 }
 ```
 
-#### Sex and gender analysis improves science and engineering [`UNREAD`]
+#### Sex and gender analysis improves science and engineering
 paper link: [here](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/39882/2018-07-09080D-1%20Schiebinger%20Sex%20and%20Gender%20Analysis%20(AAM).pdf?sequence=2)
 
 citation: 

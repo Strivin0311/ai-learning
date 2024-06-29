@@ -2,7 +2,7 @@
 *Here're some resources about Anormaly Detection*
 
 
-#### Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction [`UNREAD`]
+#### Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction
 
 paper link: [here](https://openreview.net/pdf?id=zfCNwRQ569)
 
@@ -19,7 +19,7 @@ citation:
 
 
 
-#### SANFlow: Semantic-Aware Normalizing Flow for Anomaly Detection [`UNREAD`]
+#### SANFlow: Semantic-Aware Normalizing Flow for Anomaly Detection
 
 paper link: [here](https://openreview.net/pdf?id=BqZ70BEtuW)
 
@@ -34,7 +34,7 @@ citation:
 }
 ```
 
-#### Daemon: Unsupervised anomaly detection and interpretation for multivariate time series [`UNREAD`]
+#### Daemon: Unsupervised anomaly detection and interpretation for multivariate time series
 
 paper link: [here](https://ieeexplore.ieee.org/document/9458835)
 
@@ -51,7 +51,7 @@ citation:
 ```
 
 
-#### Deep autoencoding gaussian mixture model for unsupervised anomaly detection (DAGMM) [`READ`]
+#### Deep autoencoding gaussian mixture model for unsupervised anomaly detection (DAGMM)
 
 paper link: [here](https://www.researchgate.net/profile/Song-Qi-6/publication/328437435_TGNet_Learning_to_Rank_Nodes_in_Temporal_Graphs/links/5bd608004585150b2b8c7d62/TGNet-Learning-to-Rank-Nodes-in-Temporal-Graphs.pdf)
 

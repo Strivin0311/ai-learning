@@ -2,7 +2,7 @@
 *Here're some resources about Federated Learning*
 
 
-#### HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning [`UNREAD`]
+#### HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning
 
 paper link: [here](https://arxiv.org/pdf/2306.09970.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### FedML: A Research Library and Benchmark for Federated Machine Learning [`UNREAD`]
+#### FedML: A Research Library and Benchmark for Federated Machine Learning
 
 paper link: [here](https://arxiv.org/pdf/2007.13518.pdf)
 
@@ -37,7 +37,7 @@ citation:
 }
 ```
 
-#### How to backdoor federated learning [`UNREAD`]
+#### How to backdoor federated learning
 
 paper link: [here](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf)
 
@@ -53,7 +53,7 @@ citation:
 }
 ```
 
-#### A survey on federated learning systems: Vision, hype and reality for data privacy and protection [`UNREAD`]
+#### A survey on federated learning systems: Vision, hype and reality for data privacy and protection
 
 paper link: [here](https://arxiv.org/pdf/1907.09693)
 
@@ -68,7 +68,7 @@ citation:
 }
 ```
 
-#### Federated learning with non-iid data [`UNREAD`]
+#### Federated learning with non-iid data
 
 paper link: [here](https://arxiv.org/pdf/1806.00582)
 
@@ -83,7 +83,7 @@ citation:
 ```
 
 
-#### Federated learning: Strategies for improving communication efficiency [`UNREAD`]
+#### Federated learning: Strategies for improving communication efficiency
 
 paper link: [here](https://arxiv.org/pdf/1610.05492)
 

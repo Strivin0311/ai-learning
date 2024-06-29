@@ -2,7 +2,7 @@
 *Here're some resources about Structure Learning*
 
 
-#### Highly accurate protein structure prediction with AlphaFold [`UNREAD`]
+#### Highly accurate protein structure prediction with AlphaFold
 paper link: [here](https://www.nature.com/articles/s41586-021-03819-2)
 
 citation: 
@@ -20,7 +20,7 @@ citation:
 ```
 
 
-#### Deep Graph Structure Learning for Robust Representations- A Survey [`UNREAD`]
+#### Deep Graph Structure Learning for Robust Representations- A Survey
 paper link: [here](https://www.researchgate.net/profile/Yanqiao-Zhu/publication/349787551_Deep_Graph_Structure_Learning_for_Robust_Representations_A_Survey/links/6137188538818c2eaf885a3f/Deep-Graph-Structure-Learning-for-Robust-Representations-A-Survey.pdf)
 
 citation: 
@@ -35,7 +35,7 @@ citation:
 ```
 
 
-#### Direct loss minimization for structured prediction [`UNREAD`]
+#### Direct loss minimization for structured prediction
 
 paper link: [here](https://proceedings.neurips.cc/paper/2010/file/ca8155f4d27f205953f9d3d7974bdd70-Paper.pdf)
 
@@ -51,5 +51,5 @@ citation:
 ```
     
 
-#### Structured Prediction Tutorial [`READ`]
+#### Structured Prediction Tutorial
 slides link: [here](https://pan.baidu.com/s/1dMba8xYAzoo-OhW5QCpg2w), with extraction code: `xsc8`
