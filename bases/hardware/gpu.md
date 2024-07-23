@@ -18,6 +18,25 @@ white paper link: [here](https://resources.nvidia.com/en-us-blackwell-architectu
 
 ### Hopper Series
 
+
+#### Benchmarking and Dissecting the Nvidia Hopper GPU Architecture
+
+paper link: [here](https://arxiv.org/pdf/2402.13499)
+
+citation:
+
+```bibtex
+@misc{luo2024benchmarkingdissectingnvidiahopper,
+      title={Benchmarking and Dissecting the Nvidia Hopper GPU Architecture}, 
+      author={Weile Luo and Ruibo Fan and Zeyu Li and Dayou Du and Qiang Wang and Xiaowen Chu},
+      year={2024},
+      eprint={2402.13499},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2402.13499}, 
+}
+```
+
 #### NVIDIA H100 Tensor Core GPU Architecture
 
 white paper link: [here](https://resources.nvidia.com/en-us-tensor-core?ncid=no-ncid)
