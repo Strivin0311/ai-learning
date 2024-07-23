@@ -6,11 +6,28 @@
 
 ### Blackwell Series
 
+#### NVIDIA DGX SuperPOD: Next Generation Scalable Infrastructure for AI Leadership - Reference Architecture Featuring NVIDIA DGX B200 Systems
+
+white paper link: [here](https://docs.nvidia.com/dgx-superpod/reference-architecture-scalable-infrastructure-b200/latest/_downloads/f9c12d2fce5834021568980476815e14/RA11126001-DSPAB200-ReferenceArch.pdf)
+
 
 #### NVIDIA Blackwell Architecture Technical Brief: Powering the New Era of Generative AI and Accelerated Computing
 
 white paper link: [here](https://resources.nvidia.com/en-us-blackwell-architecture)
 
+
+### Hopper Series
+
+#### NVIDIA H100 Tensor Core GPU Architecture
+
+white paper link: [here](https://resources.nvidia.com/en-us-tensor-core?ncid=no-ncid)
+
+blog link: [here](https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/)
+
+
+#### ThinkSystem NVIDIA H800 PCIe Gen5 GPUs Product Guide
+
+white paper link: [here](https://lenovopress.lenovo.com/lp1814.pdf)
 
 
 ### Ampere Series
@@ -19,6 +36,13 @@ white paper link: [here](https://resources.nvidia.com/en-us-blackwell-architectu
 #### NVIDIA A100 Tensor Core GPU Architecture: unprecedented acceleration at every scale
 
 white paper link: [here](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
+
+
+#### ThinkSystem NVIDIA A800 PCIe 4.0 GPUs Product Guide
+
+white paper link: [here](https://lenovopress.lenovo.com/lp1813.pdf)
+
+datasheet link: [here](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/a800/proviz-a800-40gb-datasheet-nvidia-2819988-r5-web.pdf)
 
 
 ### Volta Series
