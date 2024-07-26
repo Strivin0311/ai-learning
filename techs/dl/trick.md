@@ -2,6 +2,27 @@
 *Here're some resources about Tricks for Deep Learning*
 
 
+#### Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer
+
+paper link: [here](https://arxiv.org/pdf/2203.03466)
+
+github link: [here](https://github.com/microsoft/mup)
+
+citation:
+
+```bibtex
+@misc{yang2022tensorprogramsvtuning,
+      title={Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer}, 
+      author={Greg Yang and Edward J. Hu and Igor Babuschkin and Szymon Sidor and Xiaodong Liu and David Farhi and Nick Ryder and Jakub Pachocki and Weizhu Chen and Jianfeng Gao},
+      year={2022},
+      eprint={2203.03466},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2203.03466}, 
+}
+```
+
+
 #### Decoupled Weight Decay Regularization
 
 paper link: [here](https://arxiv.org/pdf/1711.05101)

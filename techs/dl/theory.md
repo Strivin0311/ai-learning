@@ -105,6 +105,24 @@ citation:
 }
 ```
 
+#### Feature Learning in Infinite-Width Neural Networks
+
+paper link: [here](https://arxiv.org/pdf/2011.14522)
+
+citation:
+
+```bibtex
+@misc{yang2022featurelearninginfinitewidthneural,
+      title={Feature Learning in Infinite-Width Neural Networks}, 
+      author={Greg Yang and Edward J. Hu},
+      year={2022},
+      eprint={2011.14522},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2011.14522}, 
+}
+```
+
 
 #### The Hardware Lottery
 
